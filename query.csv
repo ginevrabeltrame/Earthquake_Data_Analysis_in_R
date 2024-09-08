@@ -1,0 +1,413 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-03-27T13:47:55.267Z,42.4479,16.0496,7,5.5,mww,,30,1.651,0.88,us,us6000dx0m,2021-12-11T13:15:43.423Z,"55 km N of Peschici, Italy",earthquake,4.6,1.8,0.043,53,reviewed,us,us
+2021-03-18T00:17:05.186Z,36.9107,5.3143,10,5,mww,,38,3.092,0.55,us,us7000dkfb,2021-05-26T22:08:44.040Z,"26 km NE of Bejaïa, Algeria",earthquake,6.4,1.8,0.073,18,reviewed,us,us
+2021-03-18T00:04:06.698Z,36.9206,5.2014,8,6,mww,,20,3.06,0.45,us,us7000dker,2021-09-25T11:46:15.930Z,"21 km NNE of Bejaïa, Algeria",earthquake,6.9,1.8,0.033,86,reviewed,us,us
+2020-12-29T11:19:54.762Z,45.4244,16.2573,10,6.4,mww,,13,0.941,0.75,us,us6000d3zh,2023-11-21T19:23:39.177Z,"2 km WSW of Petrinja, Croatia",earthquake,4.4,1.8,0.033,89,reviewed,us,us
+2020-11-22T03:53:08.474Z,36.6442,6.8625,10,5.1,mww,,37,2.205,1.25,us,us6000crds,2022-03-10T05:48:26.167Z,"24 km WSW of Azzaba, Algeria",earthquake,6.5,1.8,0.048,41,reviewed,us,us
+2020-08-07T06:15:37.835Z,36.5497,6.2708,10,5,mww,,44,2.619,0.76,us,us6000bag6,2022-03-10T05:31:32.704Z,"3 km NNE of Sidi Mérouane, Algeria",earthquake,6.8,1.9,0.058,29,reviewed,us,us
+2020-03-22T05:24:03.700Z,45.9072,15.9697,10,5.3,mww,,12,0.794,0.59,us,us70008dx7,2023-02-17T14:06:55.780Z,"5 km E of Gornja Bistra, Croatia",earthquake,3.7,1.8,0.035,79,reviewed,us,us
+2020-01-28T20:15:08.171Z,41.4656,19.5362,10,5.1,mb,,19,0.985,1.13,us,us60007ifh,2020-04-11T18:21:03.040Z,"12 km NW of Vorë, Albania",earthquake,4.6,1.8,0.035,270,reviewed,us,us
+2019-11-28T10:52:41.876Z,41.5368,19.422,10,5,mb,,37,0.9,0.81,us,us70006e5g,2020-02-19T18:58:17.040Z,"22 km WSW of Mamurras, Albania",earthquake,5.2,1.8,0.04,199,reviewed,us,us
+2019-11-27T14:45:23.989Z,41.5498,19.4787,10,5.3,mww,,39,0.894,0.92,us,us70006dsc,2023-03-11T19:46:10.947Z,"18 km W of Mamurras, Albania",earthquake,4.5,1.8,0.058,29,reviewed,us,us
+2019-11-26T09:19:25.856Z,43.2235,17.9118,10,5.3,mww,,24,1.27,0.86,us,us70006d4h,2020-12-29T14:18:53.242Z,"4 km SSE of Blagaj, Bosnia and Herzegovina",earthquake,5.5,1.8,0.058,29,reviewed,us,us
+2019-11-26T06:08:21.820Z,41.5708,19.4242,10,5.5,mww,,19,0.866,1.34,us,us70006d2z,2020-07-10T17:54:46.671Z,"22 km W of Mamurras, Albania",earthquake,5.7,1.8,0.038,65,reviewed,us,us
+2019-11-26T03:02:59.558Z,41.422,19.6383,10,5.3,mb,,48,1.045,0.87,us,us70006d0w,2020-02-19T18:58:04.040Z,"3 km NNW of Vorë, Albania",earthquake,5.3,1.9,0.136,18,reviewed,us,us
+2019-11-26T02:59:23.982Z,41.4216,19.5323,10,5.1,mb,,29,1.027,0.85,us,us70006d1f,2020-02-19T18:58:04.040Z,"8 km NNW of Shijak, Albania",earthquake,4.7,1.9,0.147,15,reviewed,us,us
+2019-11-26T02:54:12.872Z,41.5138,19.5256,22,6.4,mww,,17,0.936,0.61,us,us70006d0m,2023-12-01T16:13:25.497Z,"15 km WSW of Mamurras, Albania",earthquake,4.3,1.8,0.037,72,reviewed,us,us
+2019-09-21T14:15:52.981Z,41.4685,19.5438,13.73,5.1,mwr,,40,0.983,1.06,us,us60005lrg,2019-12-10T17:27:01.040Z,"12 km NW of Vorë, Albania",earthquake,5.1,2.6,0.057,30,reviewed,us,us
+2019-09-21T14:04:25.803Z,41.3375,19.5303,20,5.6,mww,,34,1.109,1.13,us,us60005lrf,2021-01-16T12:21:33.387Z,"3 km WSW of Shijak, Albania",earthquake,2.1,1.8,0.042,55,reviewed,us,us
+2018-12-26T02:19:14.000Z,37.63,15.1,1,5,mwr,,,,1.07,us,us2000ixky,2022-05-03T19:42:42.222Z,"1 km SSW of Lavinaio-Monterosso, Italy",earthquake,5.1,3.2,0.08,15,reviewed,rom,us
+2018-08-16T18:19:05.400Z,41.8753,14.8084,11.59,5.3,mww,,25,0.687,1.14,us,us1000gaq7,2022-05-03T19:27:17.024Z,"2 km SE of Palata, Italy",earthquake,4.9,3.7,0.048,41,reviewed,us,us
+2018-07-04T09:01:09.570Z,41.4466,19.5828,22,5.1,mww,,20,0.233,0.71,us,us2000fwnu,2022-05-03T19:20:49.705Z,"8 km NW of Vorë, Albania",earthquake,1.1,1.9,0.069,20,reviewed,us,us
+2018-01-04T10:46:11.670Z,42.6601,19.8624,10,5.1,mww,,18,1.312,0.98,us,us1000c0lz,2022-05-03T19:02:07.464Z,"9 km NW of Plav, Montenegro",earthquake,4.3,1.8,0.051,37,reviewed,us,us
+2017-01-18T13:33:38.000Z,42.5581,13.2487,7.39,5.2,mww,,33,0.12,0.6,us,us10007txl,2022-05-03T18:14:23.688Z,"3 km N of Montereale, Italy",earthquake,5.2,3.8,,,reviewed,us,us
+2017-01-18T10:25:25.490Z,42.5855,13.1904,10,5.6,mww,,30,0.169,0.55,us,us10007twn,2022-05-03T18:09:16.530Z,"4 km SE of Cittareale, Italy",earthquake,5.2,1.8,,,reviewed,us,us
+2017-01-18T10:14:10.980Z,42.6012,13.2268,7,5.7,mww,,27,0.149,0.55,us,us10007twj,2023-02-16T07:48:26.205Z,"5 km ESE of Cittareale, Italy",earthquake,5.2,1.8,,,reviewed,us,us
+2017-01-18T09:25:41.610Z,42.6598,13.2099,10,5.3,mww,,30,0.462,0.84,us,us10007twc,2017-04-12T02:29:00.040Z,"4 km SW of Accumoli, Italy",earthquake,5.1,1.8,,,reviewed,us,us
+2016-10-30T06:40:18.670Z,42.8621,13.0961,8,6.6,mww,,25,0.174,0.67,us,us1000731j,2023-12-18T16:43:26.687Z,"5 km ESE of Preci, Italy",earthquake,5.3,1.8,,,reviewed,us,us
+2016-10-28T20:02:49.760Z,39.3881,13.5205,457.86,5.8,mww,,17,1.822,0.76,us,us100072su,2022-05-03T18:02:48.400Z,"80 km NNE of Ustica, Italy",earthquake,8,3.6,,,reviewed,us,us
+2016-10-26T19:18:08.430Z,42.9564,13.0666,10,6.1,mww,,17,0.081,0.71,us,us1000725y,2023-02-16T07:45:45.893Z,"2 km NNW of Visso, Italy",earthquake,4.7,1.7,,,reviewed,us,us
+2016-10-26T17:10:37.210Z,42.858,13.0528,6,5.5,mww,,32,0.051,0.88,us,us20007guy,2023-02-16T07:43:39.129Z,"2 km SSE of Preci, Italy",earthquake,4.4,1.7,,,reviewed,us,us
+2016-08-24T02:33:29.450Z,42.8413,13.1533,3.25,5.6,mww,,23,0.521,0.84,us,us10006g7w,2022-05-03T18:41:12.095Z,"5 km S of Castelsantangelo sul Nera, Italy",earthquake,3.9,2.1,,,reviewed,us,us
+2016-08-24T01:36:32.870Z,42.723,13.1877,4.44,6.2,mww,,25,0.123,0.68,us,us10006g7d,2023-12-18T16:32:05.896Z,"5 km WNW of Accumoli, Italy",earthquake,4.4,2.8,,,reviewed,us,us
+2014-12-29T20:34:11.570Z,41.7007,19.2785,7.01,5,mb,,,,0.85,us,usc000tan7,2022-07-27T11:55:33.935Z,"25 km S of Ulcinj, Montenegro",earthquake,4.7,3.5,0.043,191,reviewed,tir,us
+2014-05-19T00:59:19.700Z,40.943,19.9057,10,5,mwr,,33,0.405,1.02,us,usb000qu5r,2022-07-26T15:14:53.291Z,"11 km SSW of Cërrik, Albania",earthquake,,1.8,0.068,21,reviewed,us,us
+2013-12-29T17:08:43.000Z,41.369,14.445,10.5,5.1,mwr,,,,1.05,us,usc000ltr4,2023-11-04T15:09:50.690Z,"5 km E of Castello del Matese, Italy",earthquake,,3.9,0.05,,reviewed,rom,us
+2013-07-21T01:32:24.000Z,43.501,13.668,8.4,5.4,mb,111,100,,,us,usb000iiu5,2022-07-25T18:42:59.988Z,"3 km ENE of Marcelli, Italy",earthquake,,,,278,reviewed,rom,us
+2013-06-21T10:33:57.000Z,44.153,10.135,5.1,5.2,mwr,393,100,,,us,usc000hx16,2022-08-06T16:27:08.151Z,"6 km WSW of Minucciano, Italy",earthquake,,,,,reviewed,rom,us
+2013-05-26T16:00:55.070Z,36.736,5.178,10,5,mb,402,33.5,,0.79,us,usb000h6pb,2014-11-07T01:50:54.486Z,"8 km ESE of Bejaïa, Algeria",earthquake,,,,274,reviewed,us,us
+2013-05-19T09:07:26.500Z,36.703,5.261,6.7,5,mb,223,35,,1.03,us,usb000gyv1,2022-07-25T02:32:50.455Z,"16 km ESE of Bejaïa, Algeria",earthquake,,3.6,,150,reviewed,us,us
+2012-11-28T23:15:29.840Z,36.941,5.312,10,5,mb,214,71.9,,1.42,us,usp000jw74,2022-05-03T16:00:02.911Z,"28 km NE of Bejaïa, Algeria",earthquake,,,,110,reviewed,us,us
+2012-10-25T23:05:24.000Z,39.88,16.01,6,5.3,mww,334,13.6,,,us,usp000juew,2022-05-03T17:12:27.041Z,"2 km SE of Mormanno, Italy",earthquake,,,,,reviewed,rom,us
+2012-06-03T19:20:43.000Z,44.9,10.94,9,5.1,mb,224,21.9,,,us,usp000jm9v,2022-05-03T15:41:39.579Z,"3 km ENE of Novi di Modena, Italy",earthquake,,,,62,reviewed,rom,us
+2012-05-29T11:00:25.050Z,44.873,10.955,10,5.1,mb,290,28,,1.09,us,usp000jm31,2015-03-24T01:48:27.878Z,"2 km W of San Possidonio, Italy",earthquake,,,,194,reviewed,us,us
+2012-05-29T10:55:57.000Z,44.888,11.008,6.8,5.5,mww,575,17.9,,,us,usp000jm2z,2022-05-03T15:41:14.710Z,"2 km NE of San Possidonio, Italy",earthquake,,,,,reviewed,rom,us
+2012-05-29T07:00:03.000Z,44.851,11.086,10.2,5.8,mww,678,16.7,,,us,usp000jm2n,2022-05-03T17:03:23.869Z,"1 km ENE of Medolla, Italy",earthquake,,,,,reviewed,rom,us
+2012-05-20T13:18:02.000Z,44.831,11.49,4.7,5,mwr,445,12,,,us,usp000jkpj,2022-05-03T17:03:22.698Z,"1 km SSW of Vigarano Mainarda, Italy",earthquake,,,,,reviewed,rom,us
+2012-05-20T02:03:52.000Z,44.89,11.23,6.3,6,mww,729,11.5,,,us,usp000jkn8,2022-05-03T15:40:01.899Z,"4 km NNE of Massa Finalese, Italy",earthquake,,,,,reviewed,rom,us
+2012-01-27T14:53:13.000Z,44.48,10.03,60,5,mwr,377,20,,,us,usp000je1g,2015-03-24T01:38:26.631Z,"4 km SE of Berceto, Italy",earthquake,,,,,reviewed,rom,rom
+2011-07-19T07:13:12.200Z,37.21,19.92,9,5.1,mwc,300,36.3,,,us,usp000j553,2014-11-07T01:45:23.984Z,"98 km SW of Lithakiá, Greece",earthquake,,,,,reviewed,ath,gcmt
+2011-07-07T19:21:46.800Z,41.948,7.698,10.9,5.1,mwc,410,29.9,,,us,usp000j4b6,2015-03-24T01:18:48.116Z,"77 km WSW of Cargèse, France",earthquake,,,,,reviewed,ldg,gcmt
+2010-11-03T18:13:11.110Z,40.036,13.247,468.3,5.2,mwc,248,31.3,,0.75,us,usp000hnz9,2016-11-10T00:22:12.218Z,"85 km S of Ventotene, Italy",earthquake,,1.8,,,reviewed,us,gcmt
+2010-08-22T10:22:58.000Z,37.24,19.95,24,5.5,mwc,237,36.3,,,us,usp000hjm4,2022-07-18T18:58:01.428Z,"94 km SW of Lithakiá, Greece",earthquake,,,,,reviewed,ath,gcmt
+2009-08-21T13:39:58.840Z,41.898,19.123,22.8,5.1,mwc,272,38,,1.28,us,usp000h0qa,2022-07-15T16:16:55.832Z,"9 km WSW of Ulcinj, Montenegro",earthquake,,4.7,,,reviewed,us,gcmt
+2009-04-13T21:14:24.000Z,42.504,13.363,7.5,5,mwc,227,24.2,,,us,usp000gw3r,2022-07-15T07:52:19.995Z,"5 km ESE of Capitignano, Italy",earthquake,,,,,reviewed,rom,gcmt
+2009-04-09T19:38:17.360Z,42.513,13.331,2.6,5.2,mwc,265,19.6,,0.94,us,usp000gvz0,2022-07-15T07:42:25.284Z,"2 km ESE of Capitignano, Italy",earthquake,,2.1,,,reviewed,us,gcmt
+2009-04-09T00:52:59.000Z,42.484,13.343,15.4,5.4,mwc,277,18.9,,,us,usp000gvxz,2022-08-09T09:14:20.838Z,"5 km SE of Capitignano, Italy",earthquake,,,,,reviewed,rom,gcmt
+2009-04-07T17:47:37.000Z,42.275,13.464,15.1,5.5,mwc,376,27.3,,,us,usp000gvvw,2022-08-09T09:13:17.920Z,"1 km SW of San Panfilo d'Ocre, Italy",earthquake,,,,,reviewed,rom,us
+2009-04-06T23:15:37.000Z,42.451,13.364,8.6,5.1,mwc,315,11.6,,,us,usp000gvux,2022-07-15T07:18:32.197Z,"5 km ENE of Pizzoli, Italy",earthquake,,,,,reviewed,rom,gcmt
+2009-04-06T01:32:39.000Z,42.334,13.334,8.8,6.3,mwc,488,15.4,,,us,usp000gvtu,2023-11-21T17:49:36.245Z,"3 km SE of Sassa, Italy",earthquake,,,,,reviewed,rom,us
+2008-12-23T21:58:25.000Z,44.521,10.392,31.4,5,mwc,347,18.3,,,us,usp000grak,2022-07-14T22:52:03.765Z,"5 km NE of Vetto, Italy",earthquake,,,,,reviewed,rom,gcmt
+2008-12-23T15:24:22.470Z,44.555,10.41,28.3,5.4,mwc,294,27.4,,0.88,us,usp000gr91,2022-07-14T22:50:12.408Z,"4 km S of Ciano d'Enza, Italy",earthquake,,,,,reviewed,us,gcmt
+2008-12-17T21:57:44.830Z,39.206,15.444,257,5.3,mwc,712,28.7,,0.96,us,usp000gqu0,2022-07-14T22:17:08.935Z,"53 km WSW of San Lucido, Italy",earthquake,,,,,reviewed,us,us
+2007-07-04T23:55:32.000Z,38.8,15.2,279,5.2,mwc,558,17,,,us,usp000ffgq,2016-11-10T01:41:50.381Z,"39 km NE of Santa Marina Salina, Italy",earthquake,,,,,reviewed,rom,gcmt
+2006-11-05T17:15:00.320Z,39.747,13.748,429.5,5,mb,410,38.9,,0.98,us,usp000ewpg,2014-11-07T01:30:45.594Z,"97 km SSW of Anacapri, Italy",earthquake,,1.5,,133,reviewed,us,us
+2006-10-26T14:28:37.310Z,38.649,15.39,212,5.8,mwc,675,15.1,,1.05,us,usp000ew2z,2022-07-14T09:09:03.642Z,"40 km W of San Nicolò, Italy",earthquake,,,,,reviewed,us,gcmt
+2006-10-19T09:34:51.000Z,42.3,19.8,6,5,mb,259,33.5,,,us,usp000evh3,2014-11-07T01:30:35.885Z,"29 km S of Gusinje, Montenegro",earthquake,,,,23,reviewed,pdg,us
+2006-03-20T19:44:25.190Z,36.623,5.328,10,5.2,mwc,283,33.7,,1.11,us,usp000ecjv,2022-05-02T15:27:23.339Z,"23 km NW of BABOR - VILLE, Algeria",earthquake,,,,,reviewed,us,hrv
+2005-09-27T00:25:35.620Z,43.155,18.203,19.4,5.1,mwc,373,14.4,,1.13,us,usp000e0ba,2022-07-14T14:38:43.634Z,"13 km SSE of Nevesinje, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,hrv
+2005-07-26T03:32:19.000Z,40.017,12.694,514.2,5,mb,354,28.8,,0.89,us,usp000dvxv,2014-11-07T01:26:33.622Z,"100 km SSW of Ponza, Italy",earthquake,,1.8,,67,reviewed,us,us
+2005-07-10T13:10:12.160Z,42.389,19.812,4.4,5.2,mwc,443,32.3,,1.08,us,usp000dux3,2022-07-14T15:33:07.506Z,"19 km S of Gusinje, Montenegro",earthquake,,2.6,,,reviewed,us,hrv
+2005-02-07T20:46:26.440Z,36.225,10.874,10,5.1,ms,125,88.4,,0.98,us,usp000dfp7,2014-11-07T01:24:57.086Z,"26 km SSE of Douane, Tunisia",earthquake,,,,13,reviewed,us,us
+2004-12-18T09:12:48.210Z,40.893,10.146,10,5.1,mb,273,60.6,,1.04,us,usp000daye,2014-11-07T01:24:18.867Z,"42 km ENE of San Teodoro, Italy",earthquake,,,,25,reviewed,us,us
+2004-11-25T06:21:19.780Z,43.167,15.364,21.9,5.3,mwc,499,8.6,,1.11,us,usp000d951,2022-07-14T19:27:50.525Z,"60 km WNW of Komiža, Croatia",earthquake,,,,,reviewed,us,hrv
+2004-11-24T22:59:40.050Z,45.626,10.559,17.2,5.1,mwc,529,19.1,,1.07,us,usp000d94j,2022-07-14T19:31:18.176Z,"0 km WNW of Gardone Riviera, Italy",earthquake,,3.6,,,reviewed,us,hrv
+2004-07-12T13:04:07.160Z,46.296,13.641,7.7,5.2,mwc,476,6.5,,1,us,usp000d00p,2022-05-02T17:17:25.554Z,"7 km NE of Kobarid, Slovenia",earthquake,,2.4,,,reviewed,us,hrv
+2004-05-23T15:19:07.960Z,43.406,17.447,10,5,mwc,465,13,,1.18,us,usp000cw01,2022-05-02T17:12:32.654Z,"3 km WNW of Ko?erin, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,hrv
+2004-05-05T13:39:43.860Z,38.507,14.814,228.9,5.5,mwb,651,21.2,,1.22,us,usp000cu7w,2022-05-02T17:10:35.384Z,"5 km S of Leni, Italy",earthquake,,,,,reviewed,us,us
+2003-09-14T21:42:51.860Z,44.329,11.45,10,5.3,mwc,288,20.1,,1.09,us,usp000c7h4,2022-05-02T16:43:25.672Z,"3 km E of Monterenzio, Italy",earthquake,,,,,reviewed,us,hrv
+2003-04-11T09:26:58.250Z,44.792,8.892,4,5,mb,356,23.4,,,us,usp000buxn,2020-09-18T19:22:26.624Z,"1 km SSW of Carezzano Maggiore, Italy",earthquake,,,,52,reviewed,gen,us
+2003-03-29T17:42:15.700Z,43.109,15.464,10,5.5,mwc,525,15.2,,,us,usp000btsh,2022-05-02T16:28:31.245Z,"51 km W of Komiža, Croatia",earthquake,,,,,reviewed,rom,hrv
+2003-03-27T16:10:36.410Z,43.15,15.335,10,5,mwc,313,14.3,,1.18,us,usp000btn0,2016-11-09T22:10:26.742Z,"62 km W of Komiža, Croatia",earthquake,,,,,reviewed,us,hrv
+2002-12-09T09:35:04.890Z,37.869,19.973,10,5.2,mwc,199,,,1.31,us,usp000bkd6,2022-05-02T16:18:54.871Z,"54 km SW of Lixoúri, Greece",earthquake,,,,,reviewed,us,hrv
+2002-11-02T10:57:43.170Z,44.581,12.165,10,5,ml,162,,,1.2,us,usp000bfwh,2014-11-07T01:16:56.229Z,"4 km N of Sant'Alberto, Italy",earthquake,,,,,reviewed,us,zamg
+2002-11-01T15:09:00.810Z,41.726,14.875,10,5.8,mwb,454,,,1.35,us,usp000bftq,2022-05-02T16:14:44.492Z,"2 km ESE of Casacalenda, Italy",earthquake,,,,,reviewed,us,us
+2002-10-31T10:32:58.770Z,41.789,14.872,10,5.9,mwb,471,,,1.25,us,usp000bfqg,2022-05-02T16:13:21.296Z,"4 km WSW of Larino, Italy",earthquake,,,,,reviewed,us,us
+2002-09-27T06:10:44.900Z,38.437,13.695,5,5.3,mwc,294,,,,us,usp000bd72,2022-05-02T16:09:51.507Z,"39 km NNE of Santa Flavia, Italy",earthquake,,,,,reviewed,rom,hrv
+2002-09-06T01:21:28.600Z,38.381,13.701,5,6,mwc,528,,,,us,usp000bbb2,2022-05-02T16:07:26.244Z,"34 km NNE of Santa Flavia, Italy",earthquake,,,,,reviewed,rom,hrv
+2002-04-17T06:42:54.300Z,39.7,16.843,5,5.3,mwc,296,,,,us,usp000b2jt,2022-05-02T15:50:20.696Z,"12 km NNE of Mirto, Italy",earthquake,,,,,reviewed,rom,hrv
+2002-04-05T15:27:31.270Z,36.653,7.076,10,5,mb,25,,,0.93,us,usp000b1sw,2014-11-07T01:15:21.578Z,"9 km SSW of Azzaba, Algeria",earthquake,,,,5,reviewed,us,us
+2001-07-01T01:48:59.080Z,47.75,16.137,10,5.1,md,61,,,0.72,us,usp000ahsf,2014-11-07T01:13:11.665Z,"1 km NNW of Breitenau, Austria",earthquake,,,,,reviewed,us,vie
+2001-05-17T11:43:57.860Z,38.958,15.526,239.5,5.2,mwr,397,,,1.02,us,usp000af26,2014-11-07T01:12:48.212Z,"43 km NW of Santa Domenica, Italy",earthquake,,1.7,,,reviewed,us,csem
+2000-07-11T10:56:03.900Z,47.965,16.36,10,5,ml,106,,,1.18,us,usp0009w84,2014-11-07T01:10:35.266Z,"3 km ESE of Oberwaltersdorf, Austria",earthquake,,,,,reviewed,us,cll
+2000-05-10T16:52:09.810Z,44.315,12.002,10,5.1,mwc,,,,1.22,us,usp0009sr1,2022-04-29T18:38:39.863Z,"7 km SE of Granarolo, Italy",earthquake,,,,,reviewed,us,hrv
+2000-04-26T13:37:48.310Z,40.976,10.101,10,5.1,mb,,,,1.15,us,usp0009rx1,2014-11-07T01:09:57.114Z,"39 km E of Golfo Aranci, Italy",earthquake,,,,47,reviewed,us,us
+1998-09-09T11:27:59.310Z,40.035,15.98,10,5.6,mwc,,,,1.05,us,usp0008unt,2022-04-29T17:41:41.859Z,"2 km NNE of Castelluccio Superiore, Italy",earthquake,,,,,reviewed,us,hrv
+1998-05-18T17:19:04.820Z,39.253,15.108,279.9,5.5,mwb,,,,1.03,us,usp0008nbf,2016-11-09T22:33:15.145Z,"74 km WSW of Cittadella del Capo, Italy",earthquake,,,,,reviewed,us,us
+1998-04-12T10:55:32.500Z,46.245,13.652,10,5.6,mwc,,,,1.23,us,usp0008jyj,2022-04-29T17:23:50.991Z,"5 km E of Kobarid, Slovenia",earthquake,,,,,reviewed,us,hrv
+1998-04-03T07:26:36.630Z,43.164,12.701,10,5.2,mwc,,,,,us,usp0008jg7,2022-04-29T17:23:12.802Z,"8 km E of Valfabbrica, Italy",earthquake,,,,,reviewed,rom,hrv
+1998-03-26T16:26:11.510Z,43.255,12.969,10,5.4,mwc,,,,1.25,us,usp0008j2w,2022-04-29T16:36:56.924Z,"1 km E of Esanatoglia, Italy",earthquake,,,,,reviewed,us,hrv
+1998-03-13T15:14:56.820Z,45.594,14.199,10,5.2,ml,,,,1.2,us,usp0008heh,2014-11-07T01:04:45.786Z,"4 km NW of Ilirska Bistrica, Slovenia",earthquake,,,,,reviewed,us,grf
+1997-12-02T19:22:44.700Z,36.021,19.663,33,5.3,mwc,,,,1.14,us,usp0008bnh,2016-11-10T00:06:45.485Z,"203 km WSW of Methóni, Greece",earthquake,,,,,reviewed,us,hrv
+1997-10-14T15:23:10.210Z,42.962,12.892,10,5.5,ms,,,,1.21,us,usp0008916,2022-04-29T17:04:57.629Z,"8 km NNW of Sellano, Italy",earthquake,,,,46,reviewed,us,us
+1997-10-12T11:08:36.340Z,42.901,12.897,10,5.3,mwc,,,,1.03,us,usp00088x7,2022-04-29T17:04:45.859Z,"2 km NW of Sellano, Italy",earthquake,,,,,reviewed,us,hrv
+1997-10-06T23:24:52.580Z,43.045,12.835,10,5.5,mwc,,,,1.18,us,usp00088np,2022-04-29T17:04:03.870Z,"6 km E of Valtopina, Italy",earthquake,,,,,reviewed,us,hrv
+1997-10-03T08:55:21.580Z,43.075,12.794,10,5.3,mwc,,,,1.14,us,usp00088ef,2022-04-29T17:03:02.504Z,"3 km ENE of Valtopina, Italy",earthquake,,,,,reviewed,us,hrv
+1997-09-26T09:40:26.330Z,43.084,12.812,10,6,mwc,,,,1.32,us,usp000881f,2022-04-29T17:01:58.802Z,"3 km SSE of Nocera Umbra, Italy",earthquake,,,,,reviewed,us,hrv
+1997-09-26T00:33:12.250Z,43.048,12.879,10,5.7,mwc,,,,1.22,us,usp000880n,2022-04-29T17:01:47.006Z,"6 km WSW of Serravalle di Chienti, Italy",earthquake,,,,,reviewed,us,hrv
+1996-10-15T09:55:59.630Z,44.792,10.78,10,5.4,mwc,,,,1.16,us,usp0007rem,2022-04-29T20:35:49.676Z,"2 km N of Correggio, Italy",earthquake,,,,,reviewed,us,hrv
+1996-09-17T13:45:22.880Z,42.866,17.82,10,5.5,mwc,,,,1.17,us,usp0007q1x,2022-04-29T20:33:14.837Z,"2 km NW of Podgora, Croatia",earthquake,,,,,reviewed,us,hrv
+1996-09-09T15:57:05.140Z,42.774,17.873,10,5.3,mwc,,,,1.19,us,usp0007pr4,2022-04-29T20:32:21.781Z,"8 km SSE of Podgora, Croatia",earthquake,,,,,reviewed,us,hrv
+1996-09-05T20:44:09.290Z,42.803,17.936,10,6,mwc,,,,1.28,us,usp0007pfj,2022-04-29T20:31:24.414Z,"9 km ESE of Podgora, Croatia",earthquake,,,,,reviewed,us,hrv
+1996-02-01T17:57:58.170Z,37.829,19.918,29.8,5.3,mw,,,,1.3,us,usp0007c3z,2016-11-09T21:47:31.895Z,"61 km SW of Lixoúri, Greece",earthquake,,,,,reviewed,us,hrv
+1995-09-30T10:14:32.580Z,41.874,15.892,24.8,5.2,mw,,,,1.2,us,usp0007477,2022-04-29T19:57:37.200Z,"3 km S of Ischitella, Italy",earthquake,,,,,reviewed,us,hrv
+1995-09-28T23:44:41.700Z,42.625,18.162,10,5.2,mw,,,,1.2,us,usp000744m,2022-04-29T19:57:34.935Z,"0 km WSW of ?iba?a, Croatia",earthquake,,,,,reviewed,us,hrv
+1994-09-17T04:56:26.130Z,36.461,9.173,10,5.2,mb,,,,1.2,us,usp0006jk0,2022-04-28T17:32:08.110Z,"6 km W of Tabursuq, Tunisia",earthquake,,,,35,reviewed,us,us
+1994-03-21T21:41:01.910Z,39.745,15.461,278.5,5.1,mb,,,,1,us,usp0006a03,2014-11-07T00:55:10.366Z,"29 km WSW of Scalea, Italy",earthquake,,1.5,,94,reviewed,us,us
+1994-01-05T13:24:09.950Z,39.085,15.145,272.7,5.8,mw,,,,1.2,us,usp000662b,2022-04-28T17:52:11.871Z,"62 km NNE of Malfa, Italy",earthquake,,,,,reviewed,us,hrv
+1993-12-24T21:53:19.870Z,40.158,19.815,24.5,5.2,mb,,,,1.2,us,usp00065jd,2022-04-28T17:55:09.687Z,"8 km NE of Himarë, Albania",earthquake,,2.4,,57,reviewed,us,us
+1993-05-29T08:43:11.680Z,45.561,15.207,15.2,5.1,mb,,,,1.2,us,usp0005tpc,2014-11-07T00:53:05.531Z,"1 km SE of ?rnomelj, Slovenia",earthquake,,3.1,,2,reviewed,us,us
+1992-06-21T18:59:05.180Z,39.137,19.807,35.6,5,mb,,,,1.2,us,usp00059e4,2014-11-07T00:50:51.418Z,"33 km WSW of Gáïos, Greece",earthquake,,3.2,,53,reviewed,us,us
+1992-04-25T12:46:16.940Z,38.583,14.936,246,5.2,mw,,,,1,us,usp00056dm,2016-11-09T22:22:58.186Z,"6 km ENE of Santa Marina Salina, Italy",earthquake,,,,,reviewed,us,hrv
+1991-05-26T12:26:00.270Z,40.73,15.765,8.1,5.1,mb,,,,1.1,us,usp0004s3u,2022-04-28T19:15:15.538Z,"3 km E of Avigliano, Italy",earthquake,,1.6,,17,reviewed,us,us
+1991-02-26T07:25:47.270Z,40.186,13.822,401.2,5.3,mw,,,,1.1,us,usp0004nej,2016-11-09T21:58:10.101Z,"52 km SW of Anacapri, Italy",earthquake,,1.5,,,reviewed,us,hrv
+1990-12-29T19:10:46.980Z,36.015,11.08,10,5,mb,,,,0.9,us,usp0004jyb,2014-11-07T00:47:40.442Z,"34 km NE of Monastir, Tunisia",earthquake,,,,7,reviewed,us,us
+1990-12-14T03:21:26.820Z,39.347,15.355,276.4,5.3,mw,,,,1.1,us,usp0004j48,2016-11-10T00:12:19.977Z,"50 km WSW of Cittadella del Capo, Italy",earthquake,,1.8,,,reviewed,us,hrv
+1990-12-13T00:24:25.710Z,37.3,15.438,11.1,5.6,mw,,,,1.4,us,usp0004j1w,2022-04-28T19:30:07.919Z,"20 km ENE of Augusta, Italy",earthquake,,3.1,,,reviewed,us,hrv
+1990-11-27T04:51:36.420Z,43.895,16.641,10,5.1,ms,,,,1.3,us,usp0004heq,2022-04-28T19:34:05.063Z,"14 km N of Hrvace, Croatia",earthquake,,,,4,reviewed,us,us
+1990-11-27T04:37:58.590Z,43.853,16.633,24,5.6,mw,,,,1.1,us,usp0004hep,2022-04-28T19:33:59.415Z,"10 km N of Hrvace, Croatia",earthquake,,,,,reviewed,us,hrv
+1990-05-05T07:21:29.540Z,40.775,15.766,10,5.8,mw,,,,1.4,us,usp00048vr,2022-04-28T19:48:37.039Z,"6 km NE of Avigliano, Italy",earthquake,,,,,reviewed,us,hrv
+1990-04-24T19:30:40.020Z,42.129,19.131,21.2,5.1,mb,,,,1.2,us,usp00048ds,2014-11-07T00:46:11.620Z,"3 km N of Stari Bar, Montenegro",earthquake,,2.7,,9,reviewed,us,us
+1990-04-03T22:02:37.100Z,43.419,17.387,10,5.1,mb,,,,1.3,us,usp00047e3,2022-04-28T19:50:52.619Z,"5 km NNW of Grude, Bosnia and Herzegovina",earthquake,,,,13,reviewed,us,us
+1989-03-17T00:50:53.230Z,41.237,19.891,26.9,5.1,mb,,,,1.4,us,usp0003szu,2014-11-07T00:43:49.428Z,"7 km WNW of Krrabë, Albania",earthquake,,3.2,,20,reviewed,us,us
+1988-08-23T17:38:47.460Z,43.696,17.444,10,5,mb,,,,1.5,us,usp0003kaq,2020-08-28T22:16:20.115Z,"15 km SSW of Rumboci, Bosnia and Herzegovina",earthquake,,,,6,reviewed,us,us
+1988-04-26T00:53:44.750Z,42.371,16.603,14.6,5.4,mw,,,,1.1,us,usp0003fch,2022-04-28T20:50:24.168Z,"50 km SSW of Lastovo, Croatia",earthquake,,1.7,,,reviewed,us,hrv
+1988-03-26T20:35:13.440Z,40.18,19.89,39.2,5,mb,,,,1.3,us,usp0003eby,2022-04-28T20:52:36.581Z,"15 km NE of Himarë, Albania",earthquake,,3.4,,28,reviewed,us,us
+1988-01-09T01:02:46.700Z,41.246,19.63,24,5.9,mw,,,,1.3,us,usp0003bx3,2022-04-28T20:55:36.553Z,"9 km NE of Kavajë, Albania",earthquake,,,,,reviewed,us,hrv
+1987-09-04T16:42:49.190Z,43.242,13.874,18.6,5.1,mb,,,,1.2,us,usp000383d,2020-08-28T21:30:13.433Z,"8 km E of San Tommaso Tre Archi, Italy",earthquake,,2.5,,21,reviewed,us,us
+1987-07-03T10:21:57.990Z,43.254,13.936,12.4,5.1,mb,,,,1.2,us,usp000369k,2020-08-28T21:24:17.352Z,"13 km ENE of San Tommaso Tre Archi, Italy",earthquake,,1.8,,28,reviewed,us,us
+1987-02-13T13:58:07.870Z,40.2,19.823,14.7,5.1,mb,,,,1.5,us,usp00032es,2022-04-27T21:52:24.088Z,"12 km NNE of Himarë, Albania",earthquake,,2.9,,40,reviewed,us,us
+1986-11-25T13:59:42.390Z,44.12,16.339,30.2,5.6,mw,,,,1.2,us,usp00030d1,2022-04-27T22:01:12.071Z,"6 km SSW of Bosansko Grahovo, Bosnia and Herzegovina",earthquake,,3.2,,,reviewed,us,hrv
+1985-11-21T21:57:14.920Z,41.703,19.388,24.6,5.5,mw,,,,1.3,us,usp0002n1h,2022-04-27T22:32:05.480Z,"21 km SW of Shëngjin, Albania",earthquake,,2.5,,,reviewed,us,hrv
+1985-10-27T19:34:57.120Z,36.46,6.761,10,5.8,mw,,,,1.3,us,usp0002m6e,2022-04-27T22:34:39.191Z,"11 km E of Didouche Mourad, Algeria",earthquake,,,,,reviewed,us,hrv
+1985-10-20T08:43:10.190Z,44.816,6.638,10,5,mb,,,,0.6,us,usp0002kz7,2014-11-07T00:37:20.221Z,"4 km E of Saint-Martin-de-Queyrières, France",earthquake,,,,1,reviewed,us,us
+1985-09-22T14:29:54.210Z,42.913,17.621,23.3,5,ml,,,,1.2,us,usp0002k0b,2014-11-07T00:37:12.025Z,"1 km SSE of Neum, Bosnia and Herzegovina",earthquake,,5.2,,,reviewed,us,lju
+1985-08-15T04:28:46.970Z,47.045,18.054,10,5.2,mw,,,,1.3,us,usp0002hrp,2022-04-27T22:40:28.463Z,"2 km ENE of Balatonalmádi, Hungary",earthquake,,,,,reviewed,us,hrv
+1985-01-16T23:35:59.090Z,40.76,19.196,23,5.3,mb,,,,1.4,us,usp0002b3c,2022-04-27T22:57:33.224Z,"30 km W of Fier, Albania",earthquake,,3.3,,35,reviewed,us,us
+1984-05-13T12:45:55.880Z,42.967,17.734,29.7,5.5,mw,,,,1.2,us,usp00024bq,2022-04-27T23:23:24.886Z,"10 km ENE of Neum, Bosnia and Herzegovina",earthquake,,3.1,,,reviewed,us,hrv
+1984-05-11T10:41:49.940Z,41.831,13.961,13.9,5.5,mw,,,,1.2,us,usp000249a,2022-04-27T23:23:12.197Z,"6 km NNE of Villetta Barrea, Italy",earthquake,,1.7,,,reviewed,us,hrv
+1984-05-07T17:49:41.660Z,41.765,13.898,10,5.9,mw,,,,1.2,us,usp000246t,2022-04-27T23:22:56.266Z,"3 km WSW of Villetta Barrea, Italy",earthquake,,,,,reviewed,us,hrv
+1984-04-29T05:03:00.020Z,43.26,12.558,11.9,5.7,mw,,,,1.3,us,usp00023zg,2022-04-27T23:00:06.916Z,"7 km SW of Stazione di Padule, Italy",earthquake,,1.8,,,reviewed,us,hrv
+1984-03-21T01:12:43.620Z,39.419,15.234,281.4,5.2,mw,,,,1.1,us,usp00022tw,2016-11-09T22:07:40.116Z,"57 km WSW of Cittadella del Capo, Italy",earthquake,,1.3,,,reviewed,us,hrv
+1983-12-25T02:56:11.870Z,41.956,19.073,11.5,5.3,mb,,,,1.2,us,usp00020sr,2014-11-07T00:34:17.223Z,"12 km WNW of Ulcinj, Montenegro",earthquake,,1.6,,12,reviewed,us,us
+1983-11-09T16:29:51.660Z,44.689,10.317,36.9,5.1,mb,,,,1.3,us,usp0001zpm,2022-04-27T23:44:47.491Z,"2 km ENE of Pilastro, Italy",earthquake,,1.9,,31,reviewed,us,us
+1983-10-10T03:51:41.030Z,38.658,12.916,11.2,5,mb,,,,1.1,us,usp0001yw0,2014-11-07T00:33:57.497Z,"24 km WSW of Ustica, Italy",earthquake,,3.3,,4,reviewed,us,us
+1983-07-21T13:31:22.010Z,45.856,11.334,29,5.1,mb,,,,1.1,us,usp0001wzw,2014-11-07T00:33:30.169Z,"0 km WSW of Tonezza del Cimone, Italy",earthquake,,2.1,,3,reviewed,us,us
+1983-01-22T12:41:55.160Z,45.223,7.164,10,5.5,mb,,,,0.8,us,usp0001sg7,2020-08-26T22:24:25.738Z,"4 km WSW of Usseglio, Italy",earthquake,,,,1,reviewed,us,us
+1983-01-19T13:24:55.330Z,38.219,19.972,10,5.1,ms,,,,1.3,us,usp0001sd9,2014-11-07T00:32:31.824Z,"40 km W of Lixoúri, Greece",earthquake,,,,1,reviewed,us,us
+1983-01-19T05:41:48.070Z,37.892,19.959,14.9,5.3,mb,,,,1.2,us,usp0001scy,2022-04-28T00:16:45.042Z,"54 km SW of Lixoúri, Greece",earthquake,,7.2,,61,reviewed,us,us
+1982-11-16T23:41:21.030Z,40.883,19.59,21,5.6,mb,,,,1.3,us,usp0001qyv,2022-04-28T00:21:00.493Z,"11 km SW of Lushnjë, Albania",earthquake,,2,,53,reviewed,us,us
+1981-08-13T02:58:11.980Z,44.849,17.312,15.5,5.5,ms,,,,1.2,us,usp0001f8m,2022-04-28T00:56:50.139Z,"Bosnia and Herzegovina",earthquake,,2.3,,8,reviewed,us,us
+1981-01-16T00:37:46.800Z,40.945,15.368,15,5.3,ms,,,,,us,usp0001br9,2022-04-28T01:14:03.924Z,"southern Italy",earthquake,,,,,reviewed,us,us
+1980-11-30T07:41:58.000Z,40.845,15.328,10,5.1,mb,,,,,us,usp0001b3m,2020-08-26T21:21:13.267Z,"1 km SSW of Nuova Conza della Campania, Italy",earthquake,,,,,reviewed,us,us
+1980-11-25T18:28:21.500Z,40.653,15.399,10,5.3,ms,,,,,us,usp0001b0g,2022-04-28T01:21:34.143Z,"0 km S of San Gregorio Magno, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T18:34:53.800Z,40.914,15.366,10,6.9,ms,,,,,us,usp0001ay4,2022-04-28T01:21:13.544Z,"2 km N of Cairano, Italy",earthquake,,,,,reviewed,us,us
+1980-05-28T19:51:19.300Z,38.482,14.252,14,5.7,mb,,,,,us,usp00017ry,2022-04-28T01:38:29.656Z,"50 km W of Leni, Italy",earthquake,,,,,reviewed,us,us
+1979-12-08T04:06:34.300Z,38.284,11.741,33,5.4,mb,,,,,us,usp00014cu,2022-04-27T14:43:11.590Z,"64 km NW of Favignana, Italy",earthquake,,,,,reviewed,us,us
+1979-10-03T22:57:52.000Z,43.53,18.084,10,5.1,ms,,,,,us,usp0001381,2022-04-27T14:50:17.644Z,"13 km SE of Bijela, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,us
+1979-09-19T21:35:37.200Z,42.812,13.061,16,5.9,mb,,,,,us,usp000130x,2022-04-27T14:55:52.116Z,"3 km NW of Norcia, Italy",earthquake,,,,,reviewed,us,us
+1979-05-24T20:35:30.400Z,42.214,18.859,10,5.1,mb,,,,,us,usp00010v4,2014-11-06T23:22:01.494Z,"6 km W of Petrovac na Moru, Montenegro",earthquake,,,,,reviewed,us,us
+1979-05-24T17:23:18.200Z,42.255,18.752,8,6.2,ms,,,,,us,usp00010uu,2022-04-27T15:07:27.680Z,"8 km WSW of Budva, Montenegro",earthquake,,,,,reviewed,us,us
+1979-05-21T17:32:10.800Z,43.132,12.862,10,5.1,mb,,,,,us,usp00010sx,2014-11-06T23:22:01.421Z,"central Italy",earthquake,,,,,reviewed,us,us
+1979-04-20T19:33:00.900Z,41.842,19.791,10,5,mb,,,,,us,usp0001064,2014-11-06T23:22:00.352Z,"7 km N of Rubik, Albania",earthquake,,,,,reviewed,us,us
+1979-04-16T10:04:38.100Z,41.985,19.246,10,5.2,mb,,,,,us,usp000102e,2022-04-27T15:08:51.526Z,"6 km NNE of Ulcinj, Montenegro",earthquake,,,,,reviewed,us,us
+1979-04-15T14:43:06.000Z,42.319,18.682,10,5.7,mb,,,,,us,usp000101a,2022-04-27T15:08:44.170Z,"13 km S of Tivat, Montenegro",earthquake,,,,,reviewed,us,us
+1979-04-15T10:25:24.200Z,41.927,19.292,10,5.1,mb,,,,,us,usp000100u,2014-11-06T23:22:00.100Z,"5 km E of Ulcinj, Montenegro",earthquake,,,,,reviewed,us,us
+1979-04-15T06:19:44.100Z,42.096,19.209,10,6.9,ms,,,,1.1,us,usp000100b,2022-04-27T15:08:38.597Z,"6 km E of Stari Bar, Montenegro",earthquake,,,,,reviewed,us,us
+1979-04-09T02:10:20.300Z,41.956,19.023,10,5.3,mb,,,,,us,usp0000zwe,2022-04-27T15:08:07.452Z,"16 km SSW of Bar, Montenegro",earthquake,,,,,reviewed,us,us
+1979-03-16T10:46:28.000Z,42.924,12.782,33,5.1,mb,,,,,us,usp0000ze4,2014-11-06T23:21:58.528Z,"5 km NNE of Trevi, Italy",earthquake,,,,,reviewed,us,us
+1979-01-20T13:49:59.000Z,38.67,12.86,9,5.2,mb,,,,,us,usp0000yh4,2014-11-06T23:21:55.914Z,"29 km W of Ustica, Italy",earthquake,,,,,reviewed,us,us
+1979-01-16T19:27:10.100Z,38.262,15.005,11,5.5,ms,,,,,us,usp0000yf9,2020-08-26T20:11:40.184Z,"11 km NNE of San Giorgio, Italy",earthquake,,,,,reviewed,us,us
+1978-12-27T17:46:10.400Z,41.108,13.582,390,5.6,mb,,,,,us,usp0000y56,2022-04-27T15:20:31.696Z,"11 km S of Gaeta, Italy",earthquake,,,,,reviewed,us,us
+1978-04-15T23:33:47.200Z,38.391,15.066,14,5.7,ms,,,,,us,usp0000u4g,2022-04-27T15:46:44.193Z,"12 km SE of Lipari, Italy",earthquake,,,,,reviewed,us,us
+1978-03-11T19:20:49.100Z,38.104,16.031,33,5.6,mb,,,,,us,usp0000tbq,2022-04-27T15:49:34.586Z,"4 km NW of Samo, Italy",earthquake,,,,,reviewed,us,us
+1978-02-16T00:26:33.700Z,43.928,16.915,33,5.1,mb,,,,,us,usp0000szw,2014-11-06T23:21:47.079Z,"13 km NNW of Livno, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,us
+1978-02-08T04:10:31.800Z,41.111,14.889,95,5,mb,,,,,us,usp0000svj,2014-11-06T23:21:46.911Z,"3 km WSW of Apice Vecchio, Italy",earthquake,,,,,reviewed,us,us
+1977-12-30T17:35:08.900Z,40,15.419,283,5.6,mb,,,,,us,usp0000s9z,2022-04-27T16:03:08.681Z,"4 km E of Marina di Camerota, Italy",earthquake,,,,,reviewed,us,us
+1977-12-03T05:39:29.500Z,40.247,19.904,27,5.1,mb,,,,,us,usp0000rwu,2022-04-27T15:59:47.255Z,"11 km WSW of Tepelenë, Albania",earthquake,,,,,reviewed,us,us
+1977-09-16T23:48:08.400Z,46.27,12.971,25,5.1,ms,,,,,us,usp0000qpe,2022-04-27T16:12:28.833Z,"4 km NNE of Anduins, Italy",earthquake,,,,,reviewed,us,us
+1977-08-28T09:45:14.500Z,38.21,8.209,10,5.1,mb,,,,,us,usp0000qc7,2016-11-09T23:21:08.362Z,"96 km SSW of Sant'Anna Arresi, Italy",earthquake,,,,,reviewed,us,us
+1977-08-15T21:10:32.500Z,38.849,16.978,54,5,mb,,,,,us,usp0000q42,2022-04-27T16:14:04.888Z,"7 km SSW of Le Castella, Italy",earthquake,,,,,reviewed,us,us
+1977-06-28T07:12:49.300Z,38.63,14.712,261,5.3,mb,,,,,us,usp0000ph5,2016-11-09T22:51:46.221Z,"12 km WNW of Malfa, Italy",earthquake,,,,,reviewed,us,us
+1977-01-19T20:46:53.300Z,36.585,8.493,22,5.1,mb,,,,,us,usp0000m8w,2022-04-27T16:40:56.082Z,"13 km NNW of Wadi Maliz, Tunisia",earthquake,,,,,reviewed,us,us
+1977-01-13T09:19:06.100Z,43.546,17.101,20,5.3,mb,,,,,us,usp0000m5j,2022-04-27T16:39:56.713Z,"10 km NW of Grabovci, Croatia",earthquake,,,,,reviewed,us,us
+1976-11-23T07:30:27.100Z,46.273,13.083,33,5.7,mb,,,,,us,usp0000kek,2020-08-26T01:16:27.441Z,"1 km SSE of Trasaghis, Italy",earthquake,,,,,reviewed,us,us
+1976-09-15T09:21:19.100Z,46.322,13.132,17,5.9,ms,,,,,us,usp0000jdt,2022-04-27T16:53:03.532Z,"1 km SSW of Venzone, Italy",earthquake,,,,,reviewed,us,us
+1976-09-15T03:15:19.900Z,46.302,13.197,10,6,ms,,,,,us,usp0000jdj,2022-04-27T16:52:55.288Z,"5 km NNE of Isola, Italy",earthquake,,,,,reviewed,us,us
+1976-09-11T16:48:55.900Z,46.227,13.198,10,5.1,mb,,,,,us,usp0000jbe,2014-11-06T23:21:37.144Z,"0 km NNE of Magnano in Riviera, Italy",earthquake,,,,,reviewed,us,us
+1976-09-11T16:35:03.300Z,46.299,13.203,20,5.4,ms,,,,,us,usp0000jbd,2022-04-27T15:44:08.293Z,"5 km NNE of Isola, Italy",earthquake,,,,,reviewed,us,us
+1976-09-11T16:31:12.000Z,46.28,13.157,16,5.5,ms,,,,,us,usp0000jbc,2022-04-27T16:52:49.405Z,"2 km ENE of Gemona, Italy",earthquake,,,,,reviewed,us,us
+1976-09-06T19:28:13.700Z,46.244,13.028,5,5.2,mb,,,,,us,usp0000j8t,2014-11-06T23:21:37.075Z,"4 km WSW of Osoppo, Italy",earthquake,,,,,reviewed,us,us
+1976-07-15T12:58:51.000Z,46.202,13.213,33,5.1,mb,,,,,us,usp0000hc4,2014-11-06T23:21:36.224Z,"1 km S of Tarcento, Italy",earthquake,,,,,reviewed,us,us
+1976-06-17T14:28:49.200Z,46.162,12.864,24,6.1,mb,,,,,us,usp0000gxk,2022-04-27T17:02:06.014Z,"1 km WNW of Lestans, Italy",earthquake,,,,,reviewed,us,us
+1976-06-01T17:21:11.100Z,46.198,12.776,33,5.2,mb,,,,,us,usp0000gpn,2014-11-06T23:21:35.522Z,"0 km NE of Cavasso Nuovo, Italy",earthquake,,,,,reviewed,us,us
+1976-05-23T00:51:12.600Z,46.272,13.135,33,5.1,mb,,,,,us,usp0000gg1,2014-11-06T23:21:35.379Z,"1 km ESE of Gemona, Italy",earthquake,,,,,reviewed,us,us
+1976-05-18T01:30:10.100Z,46.212,13.029,33,5.2,mb,,,,,us,usp0000gcz,2014-11-06T23:21:35.311Z,"3 km NW of Majano, Italy",earthquake,,,,,reviewed,us,us
+1976-05-17T16:13:17.900Z,46.234,13,34,5.1,mb,,,,,us,usp0000gcs,2014-11-06T23:21:35.306Z,"2 km NE of Forgaria nel Friuli, Italy",earthquake,,,,,reviewed,us,us
+1976-05-15T04:26:16.500Z,46.205,13.304,33,5.3,mb,,,,,us,usp0000gbj,2014-11-06T23:21:35.279Z,"1 km NNW of Attimis, Italy",earthquake,,,,,reviewed,us,us
+1976-05-11T23:36:46.900Z,46.357,12.844,33,5,mb,,,,,us,usp0000g9v,2014-11-06T23:21:35.142Z,"4 km SSW of Preone, Italy",earthquake,,,,,reviewed,us,us
+1976-05-11T22:44:00.200Z,46.27,12.986,11,5.2,mb,,,,,us,usp0000g9t,2022-04-27T17:06:57.222Z,"4 km NNE of Anduins, Italy",earthquake,,,,,reviewed,us,us
+1976-05-09T00:53:44.000Z,46.241,13.315,14,5.1,mb,,,,,us,usp0000g7v,2022-04-27T17:06:08.207Z,"2 km WSW of Taipana, Italy",earthquake,,,,,reviewed,us,us
+1976-05-07T09:41:19.000Z,46.35,12.945,33,5.9,mb,,,,,us,usp0000g6r,2020-08-26T00:59:03.160Z,"5 km SW of Chiaulis, Italy",earthquake,,,,,reviewed,us,us
+1976-05-06T20:00:11.600Z,46.356,13.275,9,6.5,ms,,,,,us,usp0000g5v,2022-04-27T17:05:47.888Z,"3 km SW of Prato, Italy",earthquake,,,,,reviewed,us,us
+1976-04-21T20:00:18.900Z,43.403,17.49,32,5.5,mb,,,,,us,usp0000fzw,2020-08-26T00:58:09.488Z,"1 km NNE of Ko?erin, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,us
+1976-03-26T22:28:32.300Z,47.575,9.405,33,5.2,mb,,,,,us,usp0000fn5,2020-08-26T00:55:04.226Z,"2 km ENE of Romanshorn, Switzerland",earthquake,,,,,reviewed,us,us
+1976-03-05T12:47:06.600Z,43.653,12.39,33,5.3,mb,,,,,us,usp0000faw,2014-11-06T23:21:34.280Z,"2 km WSW of Sant'Angelo in Vado, Italy",earthquake,,,,,reviewed,us,us
+1976-02-27T09:58:47.900Z,45.75,12.943,33,5.2,mb,,,,,us,usp0000f88,2014-11-06T23:21:34.223Z,"2 km NW of Lugugnana, Italy",earthquake,,,,,reviewed,us,us
+1976-02-22T16:15:17.000Z,44.153,15.718,33,5.2,mb,,,,,us,usp0000f5x,2014-11-06T23:21:34.164Z,"6 km SSE of Obrovac, Croatia",earthquake,,,,,reviewed,us,us
+1975-09-16T05:06:18.300Z,41.587,19.311,22,5.1,mb,,,,,us,usp0000ctx,2014-11-06T23:21:32.037Z,"31 km NNW of Durrës, Albania",earthquake,,,,,reviewed,us,us
+1975-06-19T10:11:13.600Z,41.696,15.766,16,5.1,mb,,,,,us,usp0000bnj,2022-04-27T17:43:02.411Z,"3 km ESE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,us,us
+1974-10-29T01:05:15.500Z,44.625,18.414,33,5.1,mb,,,,,us,usp00008kn,2022-04-27T18:06:28.760Z,"2 km W of Gnojnica, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,us
+1974-06-28T11:09:40.200Z,36.586,5.271,33,5,mb,,,,,us,usp00006xx,2022-04-27T18:21:20.536Z,"25 km SE of Bejaïa, Algeria",earthquake,,,,,reviewed,us,us
+1974-06-20T09:28:33.400Z,44.352,17.714,33,5.1,mb,,,,,us,usp00006tm,2022-04-27T18:20:20.631Z,"14 km NNE of Travnik, Bosnia and Herzegovina",earthquake,,,,,reviewed,us,us
+1973-12-20T17:44:25.800Z,38.794,14.822,272,5.1,mb,,,,,us,usp00004kh,2014-11-06T23:21:21.912Z,"24 km N of Malfa, Italy",earthquake,,,,,reviewed,us,us
+1973-07-03T16:10:12.400Z,44.075,13.273,47,5.3,mb,,,,,us,usp00002hc,2014-11-06T23:21:14.086Z,"33 km NE of Fano, Italy",earthquake,,,,,reviewed,us,us
+1972-11-26T16:03:11.720Z,42.917,13.453,15,5.18,mw,,,,,iscgem,iscgem767750,2022-04-26T20:37:15.749Z,"2 km NNW of Palmiano, Italy",earthquake,,9.1,0.2,,reviewed,iscgem,iscgem
+1972-10-25T21:56:06.630Z,44.507,9.841,15,5.31,mw,,,,,iscgem,iscgem768689,2022-04-26T20:38:59.365Z,"6 km ENE of Borgo Val di Taro, Italy",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1972-09-16T03:53:27.660Z,40.193,19.798,15,5.17,mw,,,,,iscgem,iscgem769434,2022-04-26T20:42:18.829Z,"11 km NNE of Himarë, Albania",earthquake,,6.6,0.27,,reviewed,iscgem,iscgem
+1972-04-16T10:10:06.230Z,47.804,16.053,15,5.14,mw,,,,,iscgem,iscgem774492,2022-04-26T20:52:31.582Z,"1 km N of Willendorf am Steinfelde, Austria",earthquake,,7.1,0.34,,reviewed,iscgem,iscgem
+1972-03-03T21:26:52.160Z,44.574,18.497,15,5.11,mw,,,,,iscgem,iscgem775059,2022-04-26T20:54:01.506Z,"3 km NNE of Pura?i?, Bosnia and Herzegovina",earthquake,,6.9,0.2,,reviewed,iscgem,iscgem
+1971-07-15T01:33:26.450Z,44.791,10.376,20,5.21,mw,,,,,iscgem,iscgem782261,2022-04-26T21:10:57.073Z,"2 km NW of San Prospero, Italy",earthquake,,5.9,0.2,,reviewed,iscgem,iscgem
+1971-05-06T03:45:12.930Z,41.088,15.301,15,5.16,mw,,,,,iscgem,iscgem784122,2022-04-26T21:15:08.838Z,"0 km S of Scampitella, Italy",earthquake,,6.9,0.2,,reviewed,iscgem,iscgem
+1970-12-01T01:02:43.900Z,36.836,9.868,15,5.14,mw,,,,,iscgem,iscgem788774,2022-04-26T21:25:49.546Z,"4 km NNE of El Battan, Tunisia",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1970-09-07T20:58:53.030Z,43.97,16.124,15,5.45,mw,,,,,iscgem,iscgem791807,2022-04-26T21:31:27.357Z,"9 km SW of Knin, Croatia",earthquake,,3.8,0.42,,reviewed,iscgem,iscgem
+1970-08-25T01:40:12.730Z,43.26,18.357,20,5.13,mw,,,,,iscgem,iscgem793175,2022-04-26T21:33:41.948Z,"17 km NW of Gacko, Bosnia and Herzegovina",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
+1970-08-19T12:19:54.000Z,43.121,10.863,15,5.18,mw,,,,,iscgem,iscgem793017,2022-04-26T21:33:38.435Z,"2 km SSE of Monterotondo Marittimo, Italy",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1970-08-19T02:01:52.090Z,41.054,19.857,15,5.27,mw,,,,,iscgem,iscgem792994,2022-04-26T21:33:36.132Z,"8 km E of Peqin, Albania",earthquake,,3.7,0.2,,reviewed,iscgem,iscgem
+1969-12-31T13:18:32.730Z,44.808,17.153,15,5.16,mw,,,,,iscgem,iscgem801735,2022-04-26T21:52:04.986Z,"4 km NW of Banja Luka, Bosnia and Herzegovina",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1969-10-27T08:53:41.070Z,44.893,17.109,10,5.16,mw,,,,,iscgem,iscgem803835,2022-04-26T21:55:25.301Z,"Bosnia and Herzegovina",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1969-10-27T08:10:58.360Z,44.854,17.253,15,6.1,mw,,,,,iscgem,iscgem803833,2022-04-26T21:55:19.899Z,"1 km ESE of Trn, Bosnia and Herzegovina",earthquake,,7.2,0.3,,reviewed,iscgem,iscgem
+1969-10-26T15:36:52.940Z,44.813,17.339,15,6.1,mw,,,,,iscgem,iscgem803808,2022-04-26T21:55:17.088Z,"9 km ESE of Trn, Bosnia and Herzegovina",earthquake,,7.2,0.3,,reviewed,iscgem,iscgem
+1969-04-08T15:48:51.800Z,40.688,19.791,15,5.16,mw,,,,,iscgem,iscgem809672,2022-04-26T22:08:20.527Z,"9 km SE of Roskovec, Albania",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1969-04-03T22:12:22.100Z,40.578,19.986,15,5.27,mw,,,,,iscgem,iscgem809534,2022-04-26T22:07:10.206Z,"Albania",earthquake,,3.7,0.27,,reviewed,iscgem,iscgem
+1968-11-03T04:49:33.400Z,42.104,19.318,15,5.48,mw,,,,,iscgem,iscgem814739,2022-04-26T22:16:58.119Z,"15 km E of Stari Bar, Montenegro",earthquake,,3.5,0.34,,reviewed,iscgem,iscgem
+1968-06-18T05:27:35.430Z,45.684,7.95,10,5.12,mw,,,,,iscgem,iscgem820618,2022-04-26T22:30:33.111Z,"0 km SSW of Piedicavallo, Italy",earthquake,,6.1,0.29,,reviewed,iscgem,iscgem
+1968-02-25T15:40:45.130Z,36.605,5.347,15,5.14,mw,,,,,iscgem,iscgem826714,2022-04-26T22:38:56.554Z,"21 km NW of BABOR - VILLE, Algeria",earthquake,,15.4,0.2,,reviewed,iscgem,iscgem
+1968-01-15T02:01:07.580Z,37.745,12.997,15,6.07,mw,,,,,iscgem,iscgem827285,2022-04-26T22:39:55.208Z,"1 km SW of Salaparuta, Italy",earthquake,,7.8,0.25,,reviewed,iscgem,iscgem
+1967-12-30T04:19:19.090Z,44.567,12.017,12.3,5.36,mw,,,,,iscgem,iscgem828911,2022-04-26T22:42:32.291Z,"2 km SSE of Longastrino, Italy",earthquake,,3.6,0.21,,reviewed,iscgem,iscgem
+1966-08-20T12:05:18.580Z,42.198,18.566,15,5.59,mw,,,,,iscgem,iscgem844742,2022-04-26T23:13:08.576Z,"24 km WSW of Budva, Montenegro",earthquake,,3.8,0.36,,reviewed,iscgem,iscgem
+1966-08-16T03:53:42.460Z,40.12,19.699,15,5.14,mw,,,,,iscgem,iscgem844528,2022-04-26T23:12:10.190Z,"4 km WNW of Himarë, Albania",earthquake,,7.8,0.2,,reviewed,iscgem,iscgem
+1966-08-09T03:34:12.770Z,40.127,19.89,10.7,5.15,mw,,,,,iscgem,iscgem844270,2022-04-26T23:11:34.969Z,"12 km ENE of Himarë, Albania",earthquake,,6.6,0.2,,reviewed,iscgem,iscgem
+1966-08-06T05:51:58.500Z,42.229,18.817,15,5.11,mw,,,,,iscgem,iscgem844178,2022-04-26T23:11:12.189Z,"6 km SSW of Budva, Montenegro",earthquake,,5.8,0.2,,reviewed,iscgem,iscgem
+1964-04-13T08:30:03.400Z,45.217,18.049,15,5.67,mw,,,,,iscgem,iscgem868700,2022-04-27T00:10:07.992Z,"3 km NNE of Podvinje, Croatia",earthquake,,9.1,0.3,,reviewed,iscgem,iscgem
+1964-03-14T02:37:23.210Z,47.016,8.305,15,5.2,mw,,,,,iscgem,iscgem869498,2022-04-27T00:12:17.039Z,"0 km WSW of Horw, Switzerland",earthquake,,5.7,0.2,,reviewed,iscgem,iscgem
+1963-09-29T22:16:35.380Z,36.024,18.057,15,5.14,mw,,,,,iscgemsup,iscgemsup873159,2022-05-09T19:23:44.684Z,"272 km ESE of Portopalo di Capo Passero, Italy",earthquake,,3.6,0.2,,reviewed,iscgemsup,iscgemsup
+1963-07-19T05:46:05.200Z,43.344,8.278,15,6.1,mw,,,,,iscgem,iscgem872749,2022-04-27T00:25:18.787Z,"62 km SSE of San Lorenzo al Mare, Italy",earthquake,,10.3,0.2,,reviewed,iscgem,iscgem
+1963-07-19T05:45:27.220Z,43.343,8.153,15,6.3,mw,,,,,iscgem,iscgem872748,2022-04-27T00:25:16.873Z,"58 km SSE of San Lorenzo al Mare, Italy",earthquake,,5.7,0.3,,reviewed,iscgem,iscgem
+1963-05-19T10:00:03.960Z,46.145,14.698,10,5.31,mw,,,,,iscgemsup,iscgemsup872340,2022-05-09T19:23:19.482Z,"2 km S of Lukovica pri Domžalah, Slovenia",earthquake,,5.3,0.26,,reviewed,iscgemsup,iscgemsup
+1962-08-21T18:44:56.150Z,41.158,15.065,20,5.36,mw,,,,,iscgemsup,iscgemsup875197,2022-05-09T19:24:48.185Z,"3 km W of Ariano Irpino-Martiri, Italy",earthquake,,5.9,0.2,,reviewed,iscgemsup,iscgemsup
+1962-08-21T18:19:33.420Z,41.175,15.009,20,6.2,mw,,,,,iscgem,iscgem875196,2022-04-26T16:11:42.275Z,"3 km SW of Montecalvo Irpino, Italy",earthquake,,5.9,0.25,,reviewed,iscgem,iscgem
+1962-08-21T18:09:06.350Z,41.248,15.07,20,5.66,mw,,,,,iscgem,iscgem875195,2022-04-26T16:11:41.165Z,"4 km SSE of Ginestra degli Schiavoni, Italy",earthquake,,5.9,0.2,,reviewed,iscgem,iscgem
+1962-06-11T07:15:40.930Z,43.547,18.35,15,5.93,mw,,,,,iscgem,iscgem874878,2022-04-26T16:10:09.511Z,"Bosnia and Herzegovina region",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1962-03-18T15:30:34.450Z,40.723,19.626,26.4,6.13,mw,,,,,iscgem,iscgem874388,2022-04-26T16:08:46.424Z,"4 km N of Patos, Albania",earthquake,,3.6,0.2,,reviewed,iscgem,iscgem
+1962-01-11T05:05:03.710Z,43.369,17.006,15,6.23,mw,,,,,iscgem,iscgem874017,2022-09-29T01:07:40.796Z,"4 km ENE of Baška Voda, Croatia",earthquake,,3.7,0.2,,reviewed,iscgem,iscgem
+1962-01-07T10:03:13.950Z,43.247,17.019,15,6.16,mw,,,,,iscgem,iscgem873992,2022-09-29T00:52:21.077Z,"4 km SW of Tu?epi, Croatia",earthquake,,10.9,0.37,,reviewed,iscgem,iscgem
+1959-12-02T18:20:10.410Z,44.691,15.293,15,5.04,mw,,,,,iscgemsup,iscgemsup883396,2022-05-09T19:39:58.853Z,"8 km WNW of Peruši?, Croatia",earthquake,,6.2,0.2,,reviewed,iscgemsup,iscgemsup
+1959-10-07T08:30:45.290Z,40.875,19.84,20,5.98,mw,,,,,iscgem,iscgem883058,2022-04-26T16:48:56.877Z,"5 km N of Banaj, Albania",earthquake,,6.3,0.45,,reviewed,iscgem,iscgem
+1959-10-05T20:34:08.650Z,40.736,19.735,20,5.56,mw,,,,,iscgem,iscgem883052,2022-04-26T16:48:51.501Z,"2 km E of Roskovec, Albania",earthquake,,7.6,0.28,,reviewed,iscgem,iscgem
+1959-09-03T04:02:08.050Z,40.792,19.51,20,5.14,mw,,,,,iscgemsup,iscgemsup882803,2022-05-09T19:38:25.110Z,"8 km NNW of Fier, Albania",earthquake,,7.3,0.28,,reviewed,iscgemsup,iscgemsup
+1959-09-01T11:37:45.070Z,40.935,19.82,20,6.16,mw,,,,,iscgem,iscgem882795,2022-04-26T16:47:48.441Z,"9 km E of Lushnjë, Albania",earthquake,,6.3,0.28,,reviewed,iscgem,iscgem
+1959-08-18T22:04:06.360Z,40.93,19.815,20,5.26,mw,,,,,iscgemsup,iscgemsup882680,2022-05-09T19:37:49.883Z,"9 km E of Lushnjë, Albania",earthquake,,6.3,0.35,,reviewed,iscgemsup,iscgemsup
+1959-08-17T04:29:03.880Z,40.748,19.923,20,5.28,mw,,,,,iscgemsup,iscgemsup882661,2022-05-09T19:37:39.227Z,"4 km ESE of Ura Vajgurore, Albania",earthquake,,6.5,0.2,,reviewed,iscgemsup,iscgemsup
+1959-08-17T01:33:18.680Z,41.02,19.809,20,5.89,mw,,,,,iscgem,iscgem882659,2022-04-26T16:46:53.474Z,"5 km ESE of Peqin, Albania",earthquake,,6.3,0.23,,reviewed,iscgem,iscgem
+1959-06-17T12:32:06.990Z,42.687,19.969,15,5.05,mw,,,,,iscgemsup,iscgemsup882271,2022-05-09T19:33:13.979Z,"10 km N of Plav, Montenegro",earthquake,,4.5,0.21,,reviewed,iscgemsup,iscgemsup
+1959-06-16T03:28:46.050Z,44.031,18.81,15,5.1,mw,,,,,iscgemsup,iscgemsup882262,2022-05-09T19:33:07.390Z,"10 km N of Sokolac, Bosnia and Herzegovina",earthquake,,9.2,0.2,,reviewed,iscgemsup,iscgemsup
+1959-06-13T21:56:45.580Z,46.497,12.759,15,5.18,mw,,,,,iscgemsup,iscgemsup882236,2022-05-09T19:32:59.072Z,"4 km SW of Pieria-Prato Carnico, Italy",earthquake,,5.4,0.21,,reviewed,iscgemsup,iscgemsup
+1959-04-26T14:45:18.860Z,46.397,12.997,15,5.19,mw,,,,,iscgemsup,iscgemsup881875,2022-05-09T19:31:55.687Z,"1 km NNE of Chiaulis, Italy",earthquake,,5.4,0.2,,reviewed,iscgemsup,iscgemsup
+1959-04-05T10:47:56.980Z,44.646,6.844,15,5.55,mw,,,,,iscgem,iscgem881720,2022-04-26T16:42:24.800Z,"15 km W of Pontechianale, Italy",earthquake,,4.3,0.2,,reviewed,iscgem,iscgem
+1958-09-30T08:45:28.950Z,47.437,10.699,15,5.26,mw,,,,,iscgemsup,iscgemsup885198,2022-05-09T19:47:59.721Z,"3 km S of Ehenbichl, Austria",earthquake,,3.4,0.23,,reviewed,iscgemsup,iscgemsup
+1958-06-24T06:07:08.160Z,42.284,13.489,10,5.23,mw,,,,,iscgemsup,iscgemsup884615,2022-05-09T19:44:32.939Z,"0 km S of Fossa, Italy",earthquake,,4.6,0.2,,reviewed,iscgemsup,iscgemsup
+1958-04-03T02:23:48.160Z,41.27,19.631,25,5.81,mw,,,,,iscgem,iscgem884105,2022-04-26T16:55:57.099Z,"9 km SSE of Shijak, Albania",earthquake,,6.4,0.3,,reviewed,iscgem,iscgem
+1958-03-19T16:04:02.570Z,46.897,14.254,15,5.04,mw,,,,,iscgemsup,iscgemsup884024,2022-05-09T19:42:24.648Z,"3 km NW of Gurk, Austria",earthquake,,5.4,0.2,,reviewed,iscgemsup,iscgemsup
+1957-05-21T11:44:10.340Z,38.726,14.17,15,5.33,mw,,,,,iscgemsup,iscgemsup886579,2022-05-09T19:51:32.742Z,"60 km WNW of Leni, Italy",earthquake,,12.9,0.24,,reviewed,iscgemsup,iscgemsup
+1957-05-20T19:57:38.050Z,38.505,14.192,15,5.31,mw,,,,,iscgemsup,iscgemsup886576,2022-05-09T19:51:30.493Z,"53 km NNE of Cefalù, Italy",earthquake,,12.9,0.2,,reviewed,iscgemsup,iscgemsup
+1957-02-20T04:41:04.420Z,36.232,8.836,15,5.51,mw,,,,,iscgem,iscgem885972,2022-04-26T17:07:57.093Z,"Tunisia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1956-08-15T12:02:59.070Z,43.258,15.918,15,5.81,mw,,,,,iscgem,iscgem888590,2022-04-26T17:25:40.104Z,"27 km NNW of Komiža, Croatia",earthquake,,11.5,0.43,,reviewed,iscgem,iscgem
+1956-06-28T17:42:34.290Z,44.024,18.777,15,5.28,mw,,,,,iscgemsup,iscgemsup888404,2022-05-09T19:56:39.001Z,"9 km NNW of Sokolac, Bosnia and Herzegovina",earthquake,,9.2,0.31,,reviewed,iscgemsup,iscgemsup
+1956-05-26T18:40:00.410Z,44.002,11.668,15,5.15,mw,,,,,iscgemsup,iscgemsup888292,2022-05-09T19:56:19.831Z,"northern Italy",earthquake,,5.6,0.21,,reviewed,iscgemsup,iscgemsup
+1956-01-12T05:46:13.180Z,47.443,19.282,15,5.79,mw,,,,,iscgem,iscgem887823,2022-04-26T17:21:32.619Z,"3 km W of Ecser, Hungary",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1955-05-22T04:57:35.590Z,47.457,11.45,15,5.19,mw,,,,,iscgemsup,iscgemsup889550,2022-05-09T20:00:37.975Z,"Austria",earthquake,,5,0.45,,reviewed,iscgemsup,iscgemsup
+1954-09-02T01:54:37.030Z,41.932,19.847,15,5.18,mw,,,,,iscgemsup,iscgemsup891019,2022-05-09T20:07:17.065Z,"13 km SSW of Pukë, Albania",earthquake,,6.4,0.29,,reviewed,iscgemsup,iscgemsup
+1954-08-06T19:21:17.400Z,40.619,16.008,15,5.6,mw,,,,,iscgem,iscgem890936,2022-04-26T17:45:56.847Z,"4 km NW of Albano di Lucania, Italy",earthquake,,6.9,0.2,,reviewed,iscgem,iscgem
+1954-07-29T04:42:29.590Z,46.359,7.367,15,5.38,mw,,,,,iscgemsup,iscgemsup890896,2022-05-09T20:06:25.340Z,"9 km NNW of Ayent, Switzerland",earthquake,,4.5,0.2,,reviewed,iscgemsup,iscgemsup
+1954-05-19T09:34:59.160Z,46.359,7.258,15,5.51,mw,,,,,iscgem,iscgem890679,2022-04-26T17:43:19.624Z,"12 km S of Gstaad, Switzerland",earthquake,,4.5,0.37,,reviewed,iscgem,iscgem
+1953-03-31T00:55:50.610Z,40.567,19.82,15,5.14,mw,,,,,iscgemsup,iscgemsup891592,2022-05-09T20:11:26.691Z,"8 km ESE of Ballsh, Albania",earthquake,,6.5,0.2,,reviewed,iscgemsup,iscgemsup
+1953-03-21T19:35:21.640Z,45.16,18.405,15,5.23,mw,,,,,iscgemsup,iscgemsup891575,2022-05-09T20:11:00.574Z,"1 km ENE of Velika Kopanica, Croatia",earthquake,,5.2,0.32,,reviewed,iscgemsup,iscgemsup
+1952-04-01T04:21:09.850Z,36.305,6.889,15,5.21,mw,,,,,iscgemsup,iscgemsup892702,2022-05-09T20:16:41.048Z,"9 km NNW of ’Aïn Abid, Algeria",earthquake,,10.5,0.2,,reviewed,iscgemsup,iscgemsup
+1952-03-19T08:13:41.410Z,37.823,15.25,15,5.29,mw,,,,,iscgemsup,iscgemsup892649,2022-05-09T20:16:27.230Z,"0 km NW of Chianchitta-Pallio, Italy",earthquake,,6.3,0.25,,reviewed,iscgemsup,iscgemsup
+1951-10-29T16:38:05.280Z,43.304,17.719,15,5.14,mw,,,,,iscgemsup,iscgemsup894860,2022-05-09T20:30:34.673Z,"6 km SW of Ili?i, Bosnia and Herzegovina",earthquake,,6.6,0.2,,reviewed,iscgemsup,iscgemsup
+1951-09-01T06:56:08.530Z,43.116,13.287,15,5.39,mw,,,,,iscgemsup,iscgemsup894671,2022-05-09T20:28:57.050Z,"2 km SE of Camporotondo di Fiastrone, Italy",earthquake,,9.1,0.2,,reviewed,iscgemsup,iscgemsup
+1951-08-08T20:56:35.540Z,42.468,13.278,15,5.28,mw,,,,,iscgemsup,iscgemsup894610,2022-05-09T20:28:21.146Z,"2 km N of Barete, Italy",earthquake,,4.6,0.21,,reviewed,iscgemsup,iscgemsup
+1951-02-17T20:36:09.630Z,43.989,16.674,15,5.1,mw,,,,,iscgemsup,iscgemsup894117,2022-05-09T20:24:00.933Z,"15 km WSW of Glamo?, Bosnia and Herzegovina",earthquake,,8.1,0.59,,reviewed,iscgemsup,iscgemsup
+1951-01-16T01:11:50.480Z,41.829,15.788,15,5.36,mw,,,,,iscgemsup,iscgemsup894030,2022-05-09T20:23:29.747Z,"1 km E of Cagnano Varano, Italy",earthquake,,4.9,0.2,,reviewed,iscgemsup,iscgemsup
+1950-09-05T04:09:02.910Z,42.55,13.318,10,5.67,mw,,,,,iscgem,iscgem895801,2022-04-26T18:28:58.349Z,"3 km NNE of Capitignano, Italy",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1950-08-31T17:22:15.660Z,44.898,17.364,15,5.28,mw,,,,,iscgemsup,iscgemsup895777,2022-05-09T20:39:21.220Z,"5 km ESE of Laktaši, Bosnia and Herzegovina",earthquake,,7.2,0.2,,reviewed,iscgemsup,iscgemsup
+1949-10-08T03:08:51.440Z,36.277,15.662,15,5.31,mw,,,,,iscgemsup,iscgemsup896922,2022-05-09T20:53:00.811Z,"65 km SE of Portopalo di Capo Passero, Italy",earthquake,,13.6,0.43,,reviewed,iscgemsup,iscgemsup
+1949-02-03T22:29:21.870Z,46.464,13.023,10,5.39,mw,,,,,iscgemsup,iscgemsup896309,2022-05-09T20:42:49.455Z,"0 km NNW of Zuglio, Italy",earthquake,,5.4,0.2,,reviewed,iscgemsup,iscgemsup
+1949-01-20T06:48:57.220Z,44.906,14.984,10,5.23,mw,,,,,iscgemsup,iscgemsup896279,2022-05-09T20:42:22.888Z,"11 km SSE of Senj, Croatia",earthquake,,6,0.2,,reviewed,iscgemsup,iscgemsup
+1948-11-13T09:52:08.910Z,40.64,8.96,10,5.01,mw,,,,,iscgemsup,iscgemsup897634,2022-05-09T15:39:28.754Z,"4 km NW of San Nicola, Italy",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1948-08-27T11:24:24.920Z,41.763,19.332,15,5.17,mw,,,,,iscgemsup,iscgemsup897519,2022-05-09T15:35:58.402Z,"20 km SSE of Ulcinj, Montenegro",earthquake,,6.5,0.54,,reviewed,iscgemsup,iscgemsup
+1948-08-27T10:44:12.830Z,41.952,19.28,15,5.69,mw,,,,,iscgem,iscgem897518,2022-04-26T18:44:33.581Z,"5 km ENE of Ulcinj, Montenegro",earthquake,,6.5,0.22,,reviewed,iscgem,iscgem
+1948-08-22T23:16:28.740Z,41.636,15.735,15,5.34,mw,,,,,iscgemsup,iscgemsup897512,2022-05-09T15:35:29.055Z,"7 km S of San Giovanni Rotondo, Italy",earthquake,,4,0.22,,reviewed,iscgemsup,iscgemsup
+1948-08-21T08:44:55.760Z,41.529,15.841,15,5.33,mw,,,,,iscgemsup,iscgemsup897510,2022-05-09T15:35:18.776Z,"12 km NW of Zapponeta, Italy",earthquake,,8.1,0.38,,reviewed,iscgemsup,iscgemsup
+1948-08-18T21:12:31.750Z,41.413,15.705,15,5.47,mw,,,,,iscgem,iscgem897503,2022-04-26T18:44:27.817Z,"5 km N of Carapelle, Italy",earthquake,,4,0.38,,reviewed,iscgem,iscgem
+1948-06-13T06:33:34.910Z,43.492,12.17,10,5.16,mw,,,,,iscgemsup,iscgemsup897380,2022-05-09T15:32:30.292Z,"2 km SE of Pistrino, Italy",earthquake,,4.6,0.2,,reviewed,iscgemsup,iscgemsup
+1948-05-07T14:57:25.620Z,39.894,19.049,10,5.08,mw,,,,,iscgemsup,iscgemsup897314,2022-05-09T15:29:52.402Z,"53 km ESE of Santa Cesarea Terme, Italy",earthquake,,8.1,0.24,,reviewed,iscgemsup,iscgemsup
+1947-12-09T23:18:53.710Z,41.144,19.433,15,5.64,mw,,,,,iscgem,iscgem898174,2022-04-26T18:52:43.439Z,"11 km WSW of Kavajë, Albania",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1947-08-07T12:29:30.160Z,36.566,6.685,15,5.49,mw,,,,,iscgem,iscgem897984,2022-04-26T18:50:19.637Z,"13 km NNE of Didouche Mourad, Algeria",earthquake,,7.9,0.28,,reviewed,iscgem,iscgem
+1947-08-06T09:46:36.610Z,36.421,6.875,15,5.61,mw,,,,,iscgem,iscgem897981,2022-04-26T18:50:16.919Z,"21 km E of Didouche Mourad, Algeria",earthquake,,10.5,0.2,,reviewed,iscgem,iscgem
+1947-05-11T06:32:20.400Z,38.544,17.062,15,5.83,mw,,,,,iscgem,iscgem897852,2022-04-26T18:48:26.529Z,"40 km S of Capo Rizzuto, Italy",earthquake,,33.1,0.2,,reviewed,iscgem,iscgem
+1946-08-20T17:26:38.370Z,40.836,19.835,15,5.63,mw,,,,,iscgem,iscgem898555,2022-04-26T18:57:16.927Z,"1 km NNW of Banaj, Albania",earthquake,,6.3,0.4,,reviewed,iscgem,iscgem
+1946-05-30T03:41:18.280Z,46.493,7.555,15,5.86,mw,,,,,iscgem,iscgem898412,2022-04-26T18:56:00.542Z,"0 km WNW of Adelboden, Switzerland",earthquake,,4.5,0.27,,reviewed,iscgem,iscgem
+1946-01-25T17:31:49.630Z,46.499,7.644,10,6.15,mw,,,,,iscgem,iscgem898227,2022-04-26T18:53:13.776Z,"2 km WNW of Kandersteg, Switzerland",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1945-08-04T14:48:26.620Z,37.154,16.648,15,5.6,mw,,,,,iscgem,iscgem899026,2022-04-26T19:02:12.486Z,"101 km SSE of Weather Station, Italy",earthquake,,11.6,0.2,,reviewed,iscgem,iscgem
+1943-10-03T08:28:31.800Z,43.108,13.553,15,5.53,mw,,,,,iscgem,iscgem900026,2022-04-26T19:13:34.016Z,"1 km SW of Piane di Montegiorgio, Italy",earthquake,,9.1,0.35,,reviewed,iscgem,iscgem
+1943-07-24T01:43:58.090Z,45.982,11.946,15,5.1,mw,,,,,iscgemsup,iscgemsup899941,2022-05-09T16:34:09.420Z,"4 km N of Vas, Italy",earthquake,,3.9,0.31,,reviewed,iscgemsup,iscgemsup
+1943-01-20T12:38:22.590Z,43.506,16.923,15,5.42,mw,,,,,iscgemsup,iscgemsup899699,2024-01-17T20:32:14.847Z,"2 km W of Cista Provo, Croatia",earthquake,,6.7,0.22,,reviewed,iscgemsup,iscgemsup
+1942-12-29T03:42:22.040Z,43.481,17.225,15,6.17,mw,,,,,iscgem,iscgem900603,2022-04-26T19:23:27.919Z,"2 km SE of Grabovci, Croatia",earthquake,,6.7,0.6,,reviewed,iscgem,iscgem
+1941-08-20T10:36:40.440Z,42.344,15.956,15,5.43,mw,,,,,iscgemsup,iscgemsup900957,2022-05-09T16:46:18.118Z,"44 km N of Peschici, Italy",earthquake,,6.9,0.6,,reviewed,iscgemsup,iscgemsup
+1941-07-07T22:43:41.000Z,43.695,15.808,15,5.32,mw,,,,,iscgemsup,iscgemsup900886,2022-05-09T16:45:29.806Z,"7 km SSE of Vodice, Croatia",earthquake,,11.5,0.22,,reviewed,iscgemsup,iscgemsup
+1941-03-16T18:48:20.250Z,38.377,12.512,15,5.36,mw,,,,,iscgemsup,iscgemsup900714,2022-05-09T16:43:34.290Z,"29 km NW of San Vito Lo Capo, Italy",earthquake,,5,0.2,,reviewed,iscgemsup,iscgemsup
+1941-03-16T16:35:13.650Z,38.416,12.385,15,5.93,mw,,,,,iscgem,iscgem900713,2022-04-26T19:25:05.420Z,"40 km NW of San Vito Lo Capo, Italy",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1940-10-16T13:17:39.010Z,42.831,11.934,15,5.23,mw,,,,,iscgemsup,iscgemsup901654,2022-05-09T16:51:26.986Z,"3 km WNW of Allerona, Italy",earthquake,,8.7,0.2,,reviewed,iscgemsup,iscgemsup
+1940-02-23T00:39:57.470Z,40.272,19.855,15,5.58,mw,,,,,iscgem,iscgem901210,2022-04-26T19:33:56.810Z,"13 km SW of Memaliaj, Albania",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1939-10-15T14:05:30.250Z,44.364,10.126,15,5.41,mw,,,,,iscgemsup,iscgemsup902191,2022-05-09T16:56:01.778Z,"5 km S of Monchio delle Corti, Italy",earthquake,,7.3,0.2,,reviewed,iscgemsup,iscgemsup
+1939-09-18T00:14:34.810Z,47.715,16.033,15,5.49,mw,,,,,iscgem,iscgem902153,2022-04-25T20:49:36.162Z,"0 km WSW of Ternitz, Austria",earthquake,,7,0.2,,reviewed,iscgem,iscgem
+1939-08-09T03:30:29.160Z,40.127,19.139,15,5.31,mw,,,,,iscgemsup,iscgemsup902108,2022-05-09T16:55:15.352Z,"35 km SW of Orikum, Albania",earthquake,,8.1,0.2,,reviewed,iscgemsup,iscgemsup
+1939-05-20T09:35:25.010Z,40.896,19.615,15,5.55,mw,,,,,iscgem,iscgem901983,2022-04-25T20:25:31.687Z,"9 km SW of Lushnjë, Albania",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1939-02-11T11:16:57.270Z,43.968,11.21,10,5.24,mw,,,,,iscgemsup,iscgemsup901824,2022-05-09T16:52:55.788Z,"2 km SW of Cavallina, Italy",earthquake,,5.7,0.22,,reviewed,iscgemsup,iscgemsup
+1939-01-27T20:10:18.440Z,38.48,15.169,15,5.33,mw,,,,,iscgemsup,iscgemsup901793,2022-05-09T16:52:28.628Z,"18 km E of Canneto, Italy",earthquake,,9.8,0.2,,reviewed,iscgemsup,iscgemsup
+1938-11-08T03:11:38.170Z,47.636,16.231,15,5.44,mw,,,,,iscgem,iscgem902764,2022-04-25T21:00:55.575Z,"3 km SSE of Bromberg, Austria",earthquake,,7,0.24,,reviewed,iscgem,iscgem
+1938-07-18T00:57:47.400Z,44.73,6.641,10,5.28,mw,,,,,iscgemsup,iscgemsup902591,2022-05-09T16:59:03.411Z,"7 km N of Guillestre, France",earthquake,,5.3,0.2,,reviewed,iscgemsup,iscgemsup
+1938-07-02T01:45:10.960Z,42.324,17.009,10,5.24,mw,,,,,iscgemsup,iscgemsup902561,2022-05-09T16:58:41.395Z,"50 km S of Lastovo, Croatia",earthquake,,7.8,0.2,,reviewed,iscgemsup,iscgemsup
+1938-05-27T21:23:48.660Z,41.511,17.281,10,5.61,mw,,,,,iscgem,iscgem902502,2022-04-25T20:54:46.990Z,"52 km NNE of Mola di Bari, Italy",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1938-03-27T11:16:26.840Z,46.277,16.951,10,5.9,mw,,,,,iscgem,iscgem902415,2022-04-25T20:53:36.499Z,"7 km ESE of Legrad, Croatia",earthquake,,6.7,0.2,,reviewed,iscgem,iscgem
+1937-12-10T18:03:49.520Z,44.496,10.708,15,5.44,mw,,,,,iscgem,iscgem903379,2022-04-25T21:18:52.426Z,"2 km NE of Roteglia, Italy",earthquake,,7.2,0.22,,reviewed,iscgem,iscgem
+1937-08-02T10:23:42.710Z,38.066,14.883,15,5.27,mw,,,,,iscgemsup,iscgemsup903187,2022-05-09T17:04:30.115Z,"2 km N of Ucria, Italy",earthquake,,6.3,0.2,,reviewed,iscgemsup,iscgemsup
+1937-07-20T07:01:30.200Z,43.298,16.769,15,5.39,mw,,,,,iscgemsup,iscgemsup903171,2022-05-09T17:04:14.920Z,"6 km SSE of Pu?iš?a, Croatia",earthquake,,6.7,0.2,,reviewed,iscgemsup,iscgemsup
+1937-02-10T08:14:45.270Z,36.442,7.601,15,5.61,mw,,,,,iscgem,iscgem902940,2022-04-25T21:05:58.601Z,"8 km ESE of Boumahra Ahmed, Algeria",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1936-10-18T03:10:07.220Z,46.08,12.487,10,5.79,mw,,,,,iscgem,iscgem903883,2022-04-25T21:28:16.536Z,"4 km NNW of Polcenigo, Italy",earthquake,,3.5,0.2,,reviewed,iscgem,iscgem
+1936-10-03T15:48:34.880Z,47.147,14.849,10,5.45,mw,,,,,iscgem,iscgem903860,2022-04-25T21:27:38.520Z,"0 km S of Kleinlobming, Austria",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1935-10-21T11:07:12.750Z,45.361,17.235,15,5.28,mw,,,,,iscgemsup,iscgemsup904606,2022-05-09T17:17:05.621Z,"8 km SE of Lipik, Croatia",earthquake,,23.1,0.32,,reviewed,iscgemsup,iscgemsup
+1935-06-05T11:48:00.640Z,44.236,11.97,15,5.13,mw,,,,,iscgemsup,iscgemsup904329,2022-05-09T17:14:28.744Z,"5 km N of Castrocaro Terme e Terra del Sole, Italy",earthquake,,7.2,0.2,,reviewed,iscgemsup,iscgemsup
+1935-03-31T03:21:30.880Z,41.278,19.925,10,5.85,mw,,,,,iscgem,iscgem904175,2022-04-25T21:32:16.623Z,"7 km NNW of Krrabë, Albania",earthquake,,7.2,0.2,,reviewed,iscgem,iscgem
+1935-03-19T07:27:17.930Z,44.665,6.719,15,5.41,mw,,,,,iscgemsup,iscgemsup904164,2022-05-09T17:13:04.129Z,"5 km E of Guillestre, France",earthquake,,5.3,0.2,,reviewed,iscgemsup,iscgemsup
+1934-11-30T02:58:16.630Z,43.991,13.756,15,5.58,mw,,,,,iscgem,iscgem905295,2022-04-25T21:50:02.563Z,"46 km NNE of Pietra la Croce, Italy",earthquake,,8.4,0.46,,reviewed,iscgem,iscgem
+1934-06-13T09:06:23.080Z,44.372,10.126,15,5.36,mw,,,,,iscgemsup,iscgemsup904985,2022-05-09T17:19:03.783Z,"4 km S of Monchio delle Corti, Italy",earthquake,,7.3,0.28,,reviewed,iscgemsup,iscgemsup
+1934-02-04T09:35:24.380Z,41.101,19.576,15,5.77,mw,,,,,iscgem,iscgem904776,2022-04-25T21:08:49.704Z,"7 km WNW of Rrogozhinë, Albania",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1933-11-23T01:12:42.320Z,41.83,13.715,15,5.19,mw,,,,,iscgemsup,iscgemsup905928,2022-05-09T17:25:31.550Z,"6 km WNW of Pescasseroli, Italy",earthquake,,6.3,0.2,,reviewed,iscgemsup,iscgemsup
+1933-11-08T00:50:37.370Z,47.598,10.69,15,5.02,mw,,,,,iscgemsup,iscgemsup905907,2022-05-09T17:25:10.301Z,"3 km NNW of Füssen, Germany",earthquake,,3.4,0.35,,reviewed,iscgemsup,iscgemsup
+1933-09-26T03:33:25.790Z,41.98,14.084,15,5.61,mw,,,,,iscgem,iscgem905836,2022-04-25T21:59:17.640Z,"4 km W of Palena, Italy",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1933-03-22T18:14:26.620Z,37.304,19.713,15,5.45,mw,,,,,iscgem,iscgem905484,2022-04-25T21:53:03.923Z,"108 km WSW of Lithakiá, Greece",earthquake,,15.6,0.2,,reviewed,iscgem,iscgem
+1933-03-07T14:40:09.530Z,40.883,15.013,15,5.27,mw,,,,,iscgemsup,iscgemsup905451,2022-05-09T17:21:52.462Z,"1 km NW of Cassano Irpino, Italy",earthquake,,5.9,0.25,,reviewed,iscgemsup,iscgemsup
+1932-12-11T21:46:00.460Z,42.034,18.978,15,5.23,mw,,,,,iscgemsup,iscgemsup906499,2022-05-09T17:29:21.140Z,"11 km WSW of Bar, Montenegro",earthquake,,5.8,0.34,,reviewed,iscgemsup,iscgemsup
+1932-08-03T11:42:36.880Z,40.403,19.418,15,5.06,mw,,,,,iscgemsup,iscgemsup906318,2022-05-09T17:28:23.954Z,"9 km SW of Vlorë, Albania",earthquake,,7.6,0.2,,reviewed,iscgemsup,iscgemsup
+1932-05-22T17:01:46.630Z,37.518,15.686,15,5.39,mw,,,,,iscgemsup,iscgemsup906157,2022-05-09T17:27:46.482Z,"45 km S of Melito di Porto Salvo, Italy",earthquake,,10.2,0.2,,reviewed,iscgemsup,iscgemsup
+1932-01-02T23:36:46.500Z,38.438,17.454,15,5.7,mw,,,,,iscgem,iscgem905970,2022-04-25T22:01:52.942Z,"60 km SSE of Capo Rizzuto, Italy",earthquake,,15.3,0.32,,reviewed,iscgem,iscgem
+1931-12-25T11:41:12.290Z,46.343,13.156,15,5.28,mw,,,,,iscgemsup,iscgemsup907180,2022-05-09T17:33:13.619Z,"1 km NE of Venzone, Italy",earthquake,,5.4,0.2,,reviewed,iscgemsup,iscgemsup
+1931-09-05T01:25:49.310Z,43.275,11.371,15,5.2,mw,,,,,iscgemsup,iscgemsup906988,2022-05-09T17:31:23.647Z,"1 km NNW of Isola D'Arbia, Italy",earthquake,,5.1,0.2,,reviewed,iscgemsup,iscgemsup
+1931-04-21T14:19:24.500Z,42.765,12.215,15,5.17,mw,,,,,iscgemsup,iscgemsup906730,2022-05-09T17:29:51.688Z,"7 km ENE of Ciconia, Italy",earthquake,,8.7,0.25,,reviewed,iscgemsup,iscgemsup
+1931-04-11T01:25:38.220Z,42.943,12.071,15,5.27,mw,,,,,iscgemsup,iscgemsup906715,2022-05-09T17:29:47.352Z,"2 km NNE of Monteleone d'Orvieto, Italy",earthquake,,8.7,0.3,,reviewed,iscgemsup,iscgemsup
+1930-11-21T02:00:28.430Z,40.27,19.579,15,5.95,mw,,,,,iscgem,iscgem907743,2022-04-25T22:34:34.133Z,"11 km SE of Orikum, Albania",earthquake,,7.6,0.23,,reviewed,iscgem,iscgem
+1930-10-30T07:13:10.100Z,43.89,13.483,15,5.98,mw,,,,,iscgem,iscgem907677,2022-04-25T22:33:48.231Z,"28 km NNE of Montignano-Marzocca, Italy",earthquake,,8,0.23,,reviewed,iscgem,iscgem
+1930-10-26T07:14:06.010Z,44.657,11.169,15,5.17,mw,,,,,iscgemsup,iscgemsup907670,2022-05-09T17:35:40.739Z,"2 km NNW of San Giovanni in Persiceto, Italy",earthquake,,9.6,0.2,,reviewed,iscgemsup,iscgemsup
+1930-10-07T23:27:10.990Z,47.306,10.551,15,5.32,mw,,,,,iscgemsup,iscgemsup907636,2022-05-09T17:35:36.467Z,"3 km S of Elmen, Austria",earthquake,,3.4,0.3,,reviewed,iscgemsup,iscgemsup
+1930-07-23T13:53:13.320Z,40.907,15.309,15,5.19,mw,,,,,iscgemsup,iscgemsup907515,2022-05-09T17:34:53.560Z,"3 km SSW of Andretta-Mattinella, Italy",earthquake,,6.9,0.2,,reviewed,iscgemsup,iscgemsup
+1930-07-23T00:08:41.180Z,40.98,15.341,15,6.64,mw,,,,,iscgem,iscgem907513,2022-04-25T22:30:35.259Z,"3 km SSW of Bisaccia Nuova, Italy",earthquake,,6.9,0.2,,reviewed,iscgem,iscgem
+1930-05-24T22:01:58.260Z,44.439,10.817,15,5.3,mw,,,,,iscgemsup,iscgemsup907422,2022-05-09T17:34:10.722Z,"2 km ENE of Serramazzoni, Italy",earthquake,,9.6,0.2,,reviewed,iscgemsup,iscgemsup
+1929-12-13T04:45:34.030Z,36.251,13.215,15,5.4,mw,,,,,iscgemsup,iscgemsup908413,2022-05-09T17:39:06.298Z,"91 km WNW of San Lawrenz, Malta",earthquake,,14.9,0.2,,reviewed,iscgemsup,iscgemsup
+1929-07-18T21:01:55.800Z,43.755,11.373,15,5.15,mw,,,,,iscgemsup,iscgemsup908223,2022-05-09T17:38:08.196Z,"3 km ESE of San Jacopo al Girone, Italy",earthquake,,5.6,0.2,,reviewed,iscgemsup,iscgemsup
+1929-05-11T19:22:51.490Z,44.74,11.387,15,5.39,mw,,,,,iscgemsup,iscgemsup908071,2022-05-09T17:37:18.424Z,"3 km W of San Vincenzo, Italy",earthquake,,5,0.47,,reviewed,iscgemsup,iscgemsup
+1929-04-29T18:36:00.080Z,44.072,11.715,15,5.45,mw,,,,,iscgem,iscgem908049,2022-04-25T22:39:27.135Z,"2 km WSW of Tredozio, Italy",earthquake,,5.6,0.21,,reviewed,iscgem,iscgem
+1929-04-22T08:25:29.370Z,43.795,11.681,15,5.34,mw,,,,,iscgemsup,iscgemsup908030,2022-05-09T17:37:13.653Z,"2 km W of Stia, Italy",earthquake,,5.6,0.2,,reviewed,iscgemsup,iscgemsup
+1929-04-20T01:09:43.350Z,43.304,11.54,15,5.53,mw,,,,,iscgem,iscgem908025,2022-04-25T21:10:21.968Z,"5 km W of Rapolano Terme, Italy",earthquake,,5.1,0.32,,reviewed,iscgem,iscgem
+1929-04-19T04:15:26.510Z,44.339,11.453,15,5.41,mw,,,,,iscgemsup,iscgemsup908023,2022-05-09T17:37:12.277Z,"3 km ESE of Pizzano, Italy",earthquake,,5,0.2,,reviewed,iscgemsup,iscgemsup
+1929-04-11T01:40:05.480Z,44.223,11.213,15,5.06,mw,,,,,iscgemsup,iscgemsup908004,2022-05-09T17:37:07.790Z,"2 km WNW of San Benedetto Val di Sambro, Italy",earthquake,,5.7,0.35,,reviewed,iscgemsup,iscgemsup
+1929-04-10T05:43:18.820Z,44.32,11.362,15,5.36,mw,,,,,iscgemsup,iscgemsup907997,2022-05-09T17:37:06.614Z,"3 km WSW of Monterenzio, Italy",earthquake,,5,0.28,,reviewed,iscgemsup,iscgemsup
+1929-01-17T00:06:44.190Z,39.424,18.488,15,5.42,mw,,,,,iscgemsup,iscgemsup907859,2022-05-09T17:36:28.560Z,"43 km SSE of Leuca, Italy",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1928-08-25T21:08:55.840Z,44.958,16.883,15,5.43,mw,,,,,iscgemsup,iscgemsup908857,2022-05-09T17:41:08.233Z,"4 km NNW of Lamovita, Bosnia and Herzegovina",earthquake,,6.1,0.26,,reviewed,iscgemsup,iscgemsup
+1928-03-27T08:32:30.300Z,46.429,13.057,15,5.98,mw,,,,,iscgem,iscgem908566,2022-04-25T21:11:07.080Z,"4 km SE of Zuglio, Italy",earthquake,,5.4,0.2,,reviewed,iscgem,iscgem
+1928-03-26T14:40:36.360Z,46.618,13.182,15,5.42,mw,,,,,iscgemsup,iscgemsup908564,2022-05-09T17:39:45.919Z,"2 km S of Kirchbach, Austria",earthquake,,5.4,0.22,,reviewed,iscgemsup,iscgemsup
+1928-03-07T10:55:12.490Z,38.725,15.855,65,5.82,mw,,,,,iscgem,iscgem908523,2022-04-25T22:48:56.754Z,"6 km NNW of Tropea, Italy",earthquake,,6.7,0.22,,reviewed,iscgem,iscgem
+1927-10-11T14:45:04.010Z,41.804,13.883,15,5.35,mw,,,,,iscgemsup,iscgemsup909558,2022-05-09T17:44:40.451Z,"5 km ENE of Opi, Italy",earthquake,,6.1,0.2,,reviewed,iscgemsup,iscgemsup
+1927-10-08T19:49:02.130Z,47.885,16.469,15,5.45,mw,,,,,iscgem,iscgem909550,2022-04-25T23:10:16.833Z,"Austria-Hungary border region",earthquake,,3.7,0.25,,reviewed,iscgem,iscgem
+1927-08-07T06:34:03.340Z,41.985,19.84,15,5.39,mw,,,,,iscgemsup,iscgemsup909433,2022-05-09T17:43:33.532Z,"8 km SW of Pukë, Albania",earthquake,,6.4,0.33,,reviewed,iscgemsup,iscgemsup
+1927-07-25T20:35:33.020Z,47.75,15.582,15,5.43,mw,,,,,iscgemsup,iscgemsup909407,2022-05-09T17:43:18.981Z,"10 km NE of Mürzsteg, Austria",earthquake,,1.6,0.2,,reviewed,iscgemsup,iscgemsup
+1927-05-25T02:50:34.610Z,41.303,14.761,15,5.23,mw,,,,,iscgemsup,iscgemsup909288,2022-05-09T17:42:44.467Z,"3 km NE of Campolattaro, Italy",earthquake,,4.6,0.2,,reviewed,iscgemsup,iscgemsup
+1927-02-14T03:43:24.810Z,42.944,18.321,15,6.02,mw,,,,,iscgem,iscgem909090,2022-04-25T23:02:32.007Z,"11 km NW of Bile?a, Bosnia and Herzegovina",earthquake,,4.9,0.53,,reviewed,iscgem,iscgem
+1926-12-17T11:39:57.640Z,40.942,19.628,15,5.93,mw,,,,,iscgem,iscgem910290,2022-04-25T23:23:41.489Z,"6 km W of Lushnjë, Albania",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1926-12-17T06:31:11.250Z,41.355,19.997,15,5.91,mw,,,,,iscgem,iscgem910289,2022-04-25T23:23:36.170Z,"15 km ENE of Tirana, Albania",earthquake,,7.2,0.47,,reviewed,iscgem,iscgem
+1926-10-23T01:58:54.690Z,41.008,19.607,15,5.5,mw,,,,,iscgem,iscgem910183,2022-04-25T23:20:44.613Z,"9 km SSW of Rrogozhinë, Albania",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1926-08-17T01:42:52.010Z,38.856,15.195,15,5.35,mw,,,,,iscgemsup,iscgemsup910063,2022-05-09T17:47:08.839Z,"43 km NE of Santa Marina Salina, Italy",earthquake,,23.9,0.2,,reviewed,iscgemsup,iscgemsup
+1926-01-01T18:04:17.560Z,45.653,14.302,15,5.6,mw,,,,,iscgem,iscgem909698,2022-04-25T23:12:56.478Z,"8 km ESE of Pivka, Slovenia",earthquake,,4.3,0.2,,reviewed,iscgem,iscgem
+1925-09-24T13:33:20.200Z,40.228,13.146,15,5.23,mw,,,,,iscgemsup,iscgemsup910690,2022-05-09T17:51:02.094Z,"67 km SSW of Ventotene, Italy",earthquake,,25,0.35,,reviewed,iscgemsup,iscgemsup
+1925-09-11T04:40:51.370Z,45.026,14.903,15,5.25,mw,,,,,iscgemsup,iscgemsup910676,2022-05-09T17:50:55.799Z,"4 km N of Senj, Croatia",earthquake,,6,0.2,,reviewed,iscgemsup,iscgemsup
+1925-09-05T07:43:27.860Z,45.594,14.589,15,5.35,mw,,,,,iscgemsup,iscgemsup910669,2022-05-09T17:50:45.760Z,"10 km ESE of Leskova Dolina, Slovenia",earthquake,,4.3,0.27,,reviewed,iscgemsup,iscgemsup
+1924-12-12T03:28:45.500Z,46.462,13.052,15,5.41,mw,,,,,iscgemsup,iscgemsup911222,2022-05-09T17:54:26.816Z,"2 km ENE of Zuglio, Italy",earthquake,,5.4,0.5,,reviewed,iscgemsup,iscgemsup
+1924-04-15T12:48:36.190Z,46.31,8.071,15,5.56,mw,,,,,iscgem,iscgem910913,2022-04-25T23:30:40.556Z,"6 km ESE of Naters, Switzerland",earthquake,,6.2,0.2,,reviewed,iscgem,iscgem
+1924-01-02T08:55:13.060Z,43.813,12.449,15,5.47,mw,,,,,iscgem,iscgem910791,2022-04-25T23:29:15.918Z,"1 km NNE of Macerata Feltria, Italy",earthquake,,9.4,0.39,,reviewed,iscgem,iscgem
+1923-06-28T15:11:34.910Z,45.322,10.993,15,5.41,mw,,,,,iscgemsup,iscgemsup911424,2022-05-09T17:55:25.814Z,"2 km SSW of Buttapietra, Italy",earthquake,,4.7,0.2,,reviewed,iscgemsup,iscgemsup
+1923-05-20T20:51:34.040Z,37.437,19.759,15,5.49,mw,,,,,iscgem,iscgem911373,2022-04-25T23:35:35.125Z,"98 km WSW of Katastárion, Greece",earthquake,,9.6,0.2,,reviewed,iscgem,iscgem
+1923-03-15T05:40:20.160Z,43.237,17.567,15,6.1,mw,,,,,iscgem,iscgem911313,2022-04-25T23:35:00.694Z,"2 km NE of Radiši?i, Bosnia and Herzegovina",earthquake,,5,0.44,,reviewed,iscgem,iscgem
+1922-12-29T12:22:11.110Z,41.581,13.664,15,5.62,mw,,,,,iscgem,iscgem912133,2022-04-25T23:42:42.013Z,"3 km N of Roccasecca, Italy",earthquake,,2.5,0.26,,reviewed,iscgem,iscgem
+1922-04-11T04:35:20.360Z,40.622,19.924,15,5.85,mw,,,,,iscgem,iscgem911866,2022-04-25T23:40:35.000Z,"9 km SSW of Berat, Albania",earthquake,,6.5,0.24,,reviewed,iscgem,iscgem
